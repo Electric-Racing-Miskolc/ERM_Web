@@ -60,31 +60,6 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-        <!-- Google maps api -->
-  <script >
-    // Initialize and add the map
-  function initMap() {
-  // The location of ERM
-  const ERM = { lat: 48.083496938924206, lng: 20.766787797791476 };
-  // The map, centered at ERM
-  const map = new google.maps.Map(document.getElementById("map"), {
-  zoom: 18,
-  center: ERM,
-  mapTypeId: 'satellite'
-  });
-  // The marker, positioned at ERM
-  const marker = new google.maps.Marker({
-  position: ERM,
-  map: map,
-   });
-  }
-
-    window.initMap = initMap;
-
-  </script>
-
-
-
   </head>
   <body> 
      <!-- BEGAIN PRELOADER -->
@@ -645,6 +620,18 @@
               <div class="contact_map">
               <!-- BEGAIN GOOGLE MAP -->
                <div id="map"></div>
+               
+               <script>
+                mapboxgl.accessToken = 'pk.eyJ1IjoicmVkZDE1IiwiYSI6ImNsZHJoODBuZzBrbzgzd3A5ZDZhZXdjY2kifQ.Al8tejiNdJ8PdBeI0KD9Nw';
+                const map = new mapboxgl.Map({
+                container: 'map', // container ID
+                // Choose from Mapbox's core styles, or make your own style with Mapbox Studio
+                style: 'mapbox://styles/mapbox/streets-v12', // style URL
+                center: [-74.5, 40], // starting position [lng, lat]
+                zoom: 9 // starting zoom
+                });
+               </script>
+
               </div>
             </div>           
           </div>
@@ -732,10 +719,6 @@
   
      <!-- initialize jQuery Library -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <!-- Google map -->
-    <script async
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB41DRUbKWJHPxaFjMAwdrzWzbVKartNGg&callback=initMap&v=weekly">
-    </script>
      <!-- For smooth animatin  -->
     <script src="js/wow.min.js"></script> 
     <!-- Bootstrap js -->

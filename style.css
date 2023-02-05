@@ -1009,7 +1009,7 @@ textarea .form-control {
 	float: left;
 	display: inline;
 	height: 404px;
-}
+} 
 /*only firefox browser*/
 @-moz-document url-prefix() { 
 	 #map{
