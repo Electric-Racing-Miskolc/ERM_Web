@@ -8,6 +8,19 @@ $("#elastic_grid_demo").elastic_grid({
 	'items' :
 		[
 			{
+			'title' : 'Megérkezett az Emrax 228 MV Motorunk!',
+			'description'   : 'Csapatunk megvette első elektromos autójának motorját. Szeretnénk megköszönni a Miskolci Egyetem Gépészmérnöki és Informatikai Karának a finanszírozást, valamint a PUT Motorsport-nak az együttműködést! 2023.02.13.',
+			'thumbnail' : ['img/portfolio/small/No6.jpg'],
+			'large' : ['img/portfolio/large/No6.jpg'],
+			'button_list'   :
+			[
+				{ 'title':'Facebook', 'url' : 'https://www.facebook.com/photo/?fbid=146044701642094&set=a.116351514611413' },
+				{ 'title':'Instagram', 'url':'https://www.instagram.com/p/ConDRHapAiT/'},
+			],
+			'tags'  : ['Sponsored','All']
+			},
+
+			{
 			'title' : 'EuroSolid Zrt. Szponzoráció',
 			'description'   : 'Szeretnénk megköszönni az EuroSolid Zrt.-nek a támogatást, akik segítségével a 3DEXPERIENCE platformhoz és számos más segédprogramhoz hozzáférést, illetve oktatást kapunk, így egy felhő alapú rendszerben tudjuk nyomon követni munkánkat. 2022.12.08.',
 			'thumbnail' : ['img/portfolio/small/No5.jpg'],
