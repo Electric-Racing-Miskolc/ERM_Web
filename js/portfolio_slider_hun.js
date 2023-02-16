@@ -17,7 +17,7 @@ $("#elastic_grid_demo").elastic_grid({
 				{ 'title':'Facebook', 'url' : 'https://www.facebook.com/photo/?fbid=146044701642094&set=a.116351514611413' },
 				{ 'title':'Instagram', 'url':'https://www.instagram.com/p/ConDRHapAiT/'},
 			],
-			'tags'  : ['Sponsored','All']
+			'tags'  : ['Szponzoráció','Mind']
 			},
 
 			{
