@@ -10,8 +10,8 @@ $("#elastic_grid_demo").elastic_grid({
 			{
 			'title' : 'Megérkezett az Emrax 228 MV Motorunk!',
 			'description'   : 'Csapatunk megvette első elektromos autójának motorját. Szeretnénk megköszönni a Miskolci Egyetem Gépészmérnöki és Informatikai Karának a finanszírozást, valamint a PUT Motorsport-nak az együttműködést! 2023.02.13.',
-			'thumbnail' : ['img_smoll/portfolio/small/No6.webp'],
-			'large' : ['img_smoll/portfolio/large/No6.webp'],
+			'thumbnail' : ['img_smoll/portfolio/small/No6.gif'],
+			'large' : ['img_smoll/portfolio/large/No6.gif'],
 			'button_list'   :
 			[
 				{ 'title':'Facebook', 'url' : 'https://www.facebook.com/photo/?fbid=146044701642094&set=a.116351514611413' },
