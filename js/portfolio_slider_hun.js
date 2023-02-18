@@ -7,6 +7,33 @@ $("#elastic_grid_demo").elastic_grid({
 	'expandingHeight': 500,
 	'items' :
 		[
+
+			{
+			'title' : 'Tagfelvétel',
+			'description'   : 'Szeretettel várunk csapatunkban minden lelkes hallgatót, aki rész szeretne venni egy versenyautó megépítésében! 2023.02.21',
+			'thumbnail' : ['img/portfolio/small/No8_1.webp', 'img/portfolio/small/No8_2.webp'],
+			'large' : ['img/portfolio/large/No8_1.webp', 'img/portfolio/large/No8_2.webp'],
+			'button_list'   :
+			[
+				{ 'title':'Felvételről bővebben', 'url' : 'https://forms.gle/LxpwQ7niZHBf6zmp7' },
+			],
+			'tags'  : ['Csapat','Mind']
+			},
+
+			{
+			'title' : 'Altium szponzoráció',
+			'description'   : 'Csapatunk megvette első elektromos autójának motorját. Szeretnénk megköszönni a Miskolci Egyetem Gépészmérnöki és Informatikai Karának a finanszírozást, valamint a PUT Motorsport-nak az együttműködést! 2023.02.16.',
+			'thumbnail' : ['img/portfolio/small/No7.webp'],
+			'large' : ['img/portfolio/large/No7.webp'],
+			'button_list'   :
+			[
+				{ 'title':'Facebook', 'url' : 'https://www.facebook.com/photo?fbid=146921701554394&set=a.116351514611413' },
+				{ 'title':'Instagram', 'url':'https://www.instagram.com/p/Couxpi1oywQ/'},
+				{ 'title':'Altium', 'url':'https://www.altium.com/'}
+			],
+			'tags'  : ['Szponzoráció','Mind']
+			},
+
 			{
 			'title' : 'Megérkezett az Emrax 228 MV Motorunk!',
 			'description'   : 'Csapatunk megvette első elektromos autójának motorját. Szeretnénk megköszönni a Miskolci Egyetem Gépészmérnöki és Informatikai Karának a finanszírozást, valamint a PUT Motorsport-nak az együttműködést! 2023.02.13.',

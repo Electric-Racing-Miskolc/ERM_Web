@@ -7,6 +7,33 @@ $("#elastic_grid_demo").elastic_grid({
 	'expandingHeight': 500,
 	'items' :
 		[
+
+			{
+			'title' : 'Tagfelvétel',
+			'description'   : 'We welcome in our team all enthusiastic students who want to participate in building a racing car! 2023.02.21',
+			'thumbnail' : ['img/portfolio/small/No8_1.webp', 'img/portfolio/small/No8_2.webp'],
+			'large' : ['img/portfolio/large/No8_1.webp', 'img/portfolio/large/No8_2.webp'],
+			'button_list'   :
+			[
+				{ 'title':'More about the admission', 'url' : 'https://forms.gle/LxpwQ7niZHBf6zmp7' },
+			],
+			'tags'  : ['Team','All']
+			},
+
+			{
+			'title' : 'Altium Sponsoration',
+			'description'   : 'Our team had the oportunity to buy their first electric motor. We would like to thank the University of Miskolc, Faculty of Mechanical Engineering and Informatics for the financial support and PUT Motorsport for the collaboration! 2023.02.16.',
+			'thumbnail' : ['img/portfolio/small/No7.webp'],
+			'large' : ['img/portfolio/large/No7.webp'],
+			'button_list'   :
+			[
+				{ 'title':'Facebook', 'url' : 'https://www.facebook.com/photo?fbid=146921701554394&set=a.116351514611413' },
+				{ 'title':'Instagram', 'url':'https://www.instagram.com/p/Couxpi1oywQ/'},
+				{ 'title':'Altium', 'url':'https://www.altium.com/'}
+			],
+			'tags'  : ['Sponsored','All']
+			},
+
 			{
 			'title' : 'Emrax 228 MV Motor Arrieved!',
 			'description'   : 'Our team had the oportunity to buy their first electric motor. We would like to thank the University of Miskolc, Faculty of Mechanical Engineering and Informatics for the financial support and PUT Motorsport for the collaboration! 2023.02.13.',
