@@ -15,7 +15,7 @@ $("#elastic_grid_demo").elastic_grid({
 			'large' : ['img/portfolio/large/No8_1.webp', 'img/portfolio/large/No8_2.webp'],
 			'button_list'   :
 			[
-				{ 'title':'Felvételről bővebben', 'url' : 'https://forms.gle/LxpwQ7niZHBf6zmp7' },
+				{ 'title':'A felvételiről bővebben', 'url' : 'https://forms.gle/LxpwQ7niZHBf6zmp7' },
 			],
 			'tags'  : ['Csapat','Mind']
 			},

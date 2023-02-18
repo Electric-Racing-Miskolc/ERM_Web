@@ -9,13 +9,13 @@ $("#elastic_grid_demo").elastic_grid({
 		[
 
 			{
-			'title' : 'Tagfelvétel',
+			'title' : 'Join us!',
 			'description'   : 'We welcome in our team all enthusiastic students who want to participate in building a racing car! 2023.02.21',
 			'thumbnail' : ['img/portfolio/small/No8_1.webp', 'img/portfolio/small/No8_2.webp'],
 			'large' : ['img/portfolio/large/No8_1.webp', 'img/portfolio/large/No8_2.webp'],
 			'button_list'   :
 			[
-				{ 'title':'More about the admission', 'url' : 'https://forms.gle/LxpwQ7niZHBf6zmp7' },
+				{ 'title':'More about the application', 'url' : 'https://forms.gle/LxpwQ7niZHBf6zmp7' },
 			],
 			'tags'  : ['Team','All']
 			},
