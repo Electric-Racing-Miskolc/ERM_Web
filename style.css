@@ -63,7 +63,7 @@ img{
   position:absolute;
   left:50%; /* centers the loading animation horizontally one the screen */
   top:50%; /* centers the loading animation vertically one the screen */
-  background-image:url(img/status.gif); /* path to your loading animation */
+  background-image:url(img_smoll/status.gif); /* path to your loading animation */
   background-repeat:no-repeat;
   background-position:center;
   margin:-100px 0 0 -100px; /* is width and height divided by two */
@@ -176,7 +176,7 @@ img{
   z-index: 9;
 }
 .slider_overlay_carbon {
-  background-image:url(img/progress_bg.jpg);
+  background-image:url(img_smoll/progress_bg.webp);
   height: 100%;
   opacity: 0.8;
   position: absolute;
@@ -473,21 +473,6 @@ img{
 .about_slider .slick-dots li.slick-active button:before {
   opacity: 0.75;
 }
-.skills_area{
-	float: left;
-	display: inline;
-	width: 100%;
-	min-height: 350px;
-	padding: 85px 0px;
-	background-image: url(img/skills_bg.jpg);
-	background-repeat: no-repeat;
-	background-size: 100% 100%;
-	position: relative;
-}
-.skills{
-	position: relative;
-	z-index: 999;
-}
 .heading h3 {
   color: #fff;
   display: inline-block;
@@ -505,17 +490,6 @@ div[data-dimension] {
 }
 .circle-text{
 	color: #fff;
-}
-.single_skill{
-	float: left;
-	display: block;
-	width: 100%;
-	text-align: center;
-}
-.single_skill > h4 {
-  color: #ffffff;
-  font-size: 20px;
-  font-weight: bold;
 }
 
 /*--------------------*/
@@ -596,7 +570,7 @@ div[data-dimension] {
   width: 100%;
 }
 .counter_section {
-  background-image: url("img/works_counterbg.jpg");
+  background-image: url("img_smoll/works_counterbg.webp");
   background-repeat: no-repeat;
   background-size: 100% 100%;
   display: inline;
@@ -1062,7 +1036,6 @@ textarea .form-control {
 }
 
 #contactFeature{
-	/* background-image: url("img/contact-feature-bg.jpg"); */
 	background-repeat: no-repeat;
 	background-size: 100% 100%;	
 	position: relative;
@@ -1218,8 +1191,6 @@ textarea .form-control {
 	.slider_caption > p {font-size: 15px;}
 	.slider_btn {font-size: 18px;}
 	.heading h2 {font-size: 30px;line-height: 30px;}
-	.skills_area {background-size: cover;}
-	.single_skill {width: 50%; margin-bottom: 22px;}
 	.counter {width: 50%;float: left;}
 	.counter_section {background-size: cover;}
 	.portfolio_area {padding: 60px 15px 0;}
@@ -1286,7 +1257,6 @@ textarea .form-control {
 	.panel-title {font-size: 17px;}
 	.about_area {padding-bottom: 0px;}
 	.about_slider{height: auto;}
-	.single_skill {margin-bottom: 25px;width: 100%;}
 	.heading h3 {font-size: 20px;line-height: 25px;margin: 0 0 30px;}
 	.counter {width: 100%;margin-bottom: 15px;}
 	.blog_slider .slick-prev {left: 75.5%;}
