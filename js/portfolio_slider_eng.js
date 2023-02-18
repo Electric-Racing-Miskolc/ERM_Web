@@ -10,8 +10,8 @@ $("#elastic_grid_demo").elastic_grid({
 			{
 			'title' : 'Emrax 228 MV Motor Arrieved!',
 			'description'   : 'Our team had the oportunity to buy their first electric motor. We would like to thank the University of Miskolc, Faculty of Mechanical Engineering and Informatics for the financial support and PUT Motorsport for the collaboration! 2023.02.13.',
-			'thumbnail' : ['img/portfolio/small/No6.jpg'],
-			'large' : ['img/portfolio/large/No6.jpg'],
+			'thumbnail' : ['img/portfolio/small/No6.webp'],
+			'large' : ['img/portfolio/large/No6.webp'],
 			'button_list'   :
 			[
 				{ 'title':'Facebook', 'url' : 'https://www.facebook.com/photo/?fbid=146044701642094&set=a.116351514611413' },
@@ -23,8 +23,8 @@ $("#elastic_grid_demo").elastic_grid({
 			{
 			'title' : 'EuroSolid Zrt. Sponsoration',
 			'description'   : 'We would like to thank EuroSolid Zrt. for their support and help in which we\'ve got access to the 3DEXPERIENCE platform and many other utilities, as well as training, so we can monitor our work in a cloud-based system. 2022.12.08.',
-			'thumbnail' : ['img/portfolio/small/No5.jpg'],
-			'large' : ['img/portfolio/large/No5.jpg'],
+			'thumbnail' : ['img/portfolio/small/No5.webp'],
+			'large' : ['img/portfolio/large/No5.webp'],
 			'button_list'   :
 			[
 				{ 'title':'Facebook', 'url' : 'https://www.facebook.com/photo?fbid=125757393670825&set=a.116351514611413' },
@@ -37,8 +37,8 @@ $("#elastic_grid_demo").elastic_grid({
 			{
 			'title' : 'UniTek Sponsoration',
 			'description'   : 'We would like to thank Unitek Drives for supporting us in building our electric car and Miskolci Egyetem (University of Miskolc) for their help with the purchase. 2022.11.21.',
-			'thumbnail' : ['img/portfolio/small/No4.jpg'],
-			'large' : ['img/portfolio/large/No4.jpg'],
+			'thumbnail' : ['img/portfolio/small/No4.webp'],
+			'large' : ['img/portfolio/large/No4.webp'],
 			'button_list'   :
 			[
 			{ 'title':'Facebook', 'url' : 'https://www.facebook.com/photo?fbid=120098677570030&set=a.116351514611413' },
@@ -51,8 +51,8 @@ $("#elastic_grid_demo").elastic_grid({
 			{
 			'title' : 'University Sponsored Tools',
 			'description'   : 'Thanks to Miskolci Egyetem (University of Miskolc) for their support in setting up the team and equipping our workshop. 2022.11.16.',
-			'thumbnail' : ['img/portfolio/small/No3.jpg'],
-			'large' : ['img/portfolio/large/No3.jpg'],
+			'thumbnail' : ['img/portfolio/small/No3.webp'],
+			'large' : ['img/portfolio/large/No3.webp'],
 			'button_list'   :
 			[
 			{ 'title':'Facebook', 'url' : 'https://www.facebook.com/photo?fbid=118240334422531&set=a.116351514611413' },
@@ -64,8 +64,8 @@ $("#elastic_grid_demo").elastic_grid({
 			{
 			'title' : 'Team Startup Interview',
 			'description'   : 'Electric Racing Miskolc is an enthusiastic, young and creative team. What are they doing? Details in our video. And you can still join. 2022.10.13.',
-			'thumbnail' : ['img/portfolio/small/No2_1.jpg', 'img/portfolio/small/No2_2.jpg'],
-			'large' : ['img/portfolio/large/No2_1.jpg', 'img/portfolio/large/No2_2.jpg'],
+			'thumbnail' : ['img/portfolio/small/No2_1.webp', 'img/portfolio/small/No2_2.webp'],
+			'large' : ['img/portfolio/large/No2_1.webp', 'img/portfolio/large/No2_2.webp'],
 			'button_list'   :
 			[
 			{ 'title':'Facebook Video Post (HUN)', 'url' : 'https://www.facebook.com/unimiskolc/videos/452365386989036' },
@@ -77,8 +77,8 @@ $("#elastic_grid_demo").elastic_grid({
 			{
 			'title' : 'The Beginning...',
 			'description'   : 'We are happy to announce that the first fully electric Formula Student racecar engineering team of the University of Miskolc has been formed! Our team by the name Electric Racing Miskolc, representing the University of Miskolc, is competing in the Formula Student international racing series. 2022.11.11.',
-			'thumbnail' : ['img/portfolio/small/No1.jpg'],
-			'large' : ['img/portfolio/large/No1.jpg'],
+			'thumbnail' : ['img/portfolio/small/No1.webp'],
+			'large' : ['img/portfolio/large/No1.webp'],
 			'button_list'   :
 			[
 			{ 'title':'Facebook', 'url' : 'https://www.facebook.com/photo?fbid=116351501278081&set=a.116351514611413' },

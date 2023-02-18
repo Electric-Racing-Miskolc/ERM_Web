@@ -176,7 +176,7 @@ img{
   z-index: 9;
 }
 .slider_overlay_carbon {
-  background-image:url(img/progress_bg.jpg);
+  background-image:url(img/progress_bg.webp);
   height: 100%;
   opacity: 0.8;
   position: absolute;
