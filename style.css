@@ -985,3 +985,13 @@ textarea .form-control {
 	.slider_caption {margin-top: 34%;}  
 	
 }
+
+.feature_img{
+  width: 550px;
+  height: 350px;
+}
+
+.sponsor_img{
+  width: 210px;
+  height: 100px;
+}
