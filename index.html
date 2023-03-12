@@ -34,6 +34,7 @@
     <link rel="stylesheet" href="css/elastic_grid.css"> 
     <link id="orginal" href="css/themes/default-theme.css" rel="stylesheet">
     <link href="style.css" rel="stylesheet">
+    <link href=https://api.mapbox.com/mapbox-gl-js/v2.13.0/mapbox-gl.css rel="stylesheet"/>
     <script src="https://api.mapbox.com/mapbox-gl-js/v2.12.0/mapbox-gl.js"></script>
     <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Varela' rel='stylesheet' type='text/css'>
@@ -66,7 +67,7 @@
               <li><a href="#team">A Csapat</a></li>  
               <li><a href="#clients">Szponzoraink</a></li>            
               <li><a href="#contact">Kontakt</a></li>                           
-              <li><a href="https://www.ermiskolc.hu/en">ENG</a></li> 
+              <li><a href="./en/">ENG</a></li> 
             </ul>           
           </div>
           </div>     
@@ -786,6 +787,7 @@
             <div class="col-lg-7 col-md-7 col-sm-7">
               <div class="contact_map">
                <div id="map"></div>
+               <div id="static"></div>
 
                <script>
                 mapboxgl.accessToken = 'pk.eyJ1IjoicmVkZDE1IiwiYSI6ImNsZHJoODBuZzBrbzgzd3A5ZDZhZXdjY2kifQ.Al8tejiNdJ8PdBeI0KD9Nw';
@@ -795,6 +797,11 @@
                 center: [20.7656, 48.0817], // starting position [lng, lat]
                 zoom: 15 // starting zoom
                 });
+
+                map.on('load', () => {
+                  const mapContainerEl = document.getElementById('map');
+                  mapContainerEl.style.visibility = 'visible';
+                  });
                </script>
 
               </div>
