@@ -622,7 +622,7 @@ div[data-dimension] {
   padding-bottom: 30px;
 }
 .contact_map {
-  background-image: url("https://api.mapbox.com/styles/v1/redd15/cldrghbej001201pb9ac9rxwa/static/20.7656,48.0817,15/650x400?access_token=pk.eyJ1IjoicmVkZDE1IiwiYSI6ImNsZHJoODBuZzBrbzgzd3A5ZDZhZXdjY2kifQ.Al8tejiNdJ8PdBeI0KD9Nw");
+  background-image: url("./img/map.webp");
   border: 1px solid #ccc;
   display: inline;
   float: left;
