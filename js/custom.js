@@ -118,6 +118,7 @@ jQuery(function($){
 	menuItems = topMenu.find("a"),
 	// Anchors corresponding to menu items
 	scrollItems = menuItems.map(function(){
+	  if (( Array.from($(this).attr("href"))[0] ) != '#'){return;}
 	  var item = $($(this).attr("href"));
 	  if (item.length) { return item; }
 	});
