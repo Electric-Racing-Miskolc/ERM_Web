@@ -895,6 +895,19 @@ textarea .form-control {
   -o-transition: all 0.5s;
   transition: all 0.5s;
 }
+.feature_img{
+  width: 550px;
+  height: 350px;
+}
+
+.sponsor_img{
+  width: 210px;
+  height: 100px;
+}
+.sponsor_big_img{
+  width: 420px;
+  height: 200px;
+}
 
 /*======================///////////////
 			start responsive style
@@ -995,7 +1008,8 @@ textarea .form-control {
 	.footer_right { margin-top: 20px;}
 	.social_nav { text-align: center;}
 	.testi_content:before {left: 30%;}	
-	.wagwep-container ul#portfolio-filter {padding: 0 3%;}	
+	.wagwep-container ul#portfolio-filter {padding: 0 3%;}
+  .sponsor_big_img{width: 300px;height: 143px;}
  
 }
 
@@ -1024,18 +1038,4 @@ textarea .form-control {
 	.subscr_btn {font-size: 11px;}
 	.slider_caption {margin-top: 34%;}  
 	
-}
-
-.feature_img{
-  width: 550px;
-  height: 350px;
-}
-
-.sponsor_img{
-  width: 210px;
-  height: 100px;
-}
-.sponsor_big_img{
-  width: 420px;
-  height: 200px;
 }
