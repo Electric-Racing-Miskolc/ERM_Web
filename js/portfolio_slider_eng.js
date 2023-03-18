@@ -7,7 +7,19 @@ $("#elastic_grid_demo").elastic_grid({
 	'expandingHeight': 500,
 	'items' :
 		[
-
+			{
+				'title' : 'Informational night',
+				'description'   : 'On March 22, 2023, at 6:00 p.m., our team will hold an informational presentation about the membership application, in the Informatics building. in classroom 205 of the second floor. If this time is not convenient for you, feel free to ask your questions on one of our social media pages or here on our website! 2023.03.14', 
+				'thumbnail' : ['../img/portfolio/small/No9.webp'],
+				'large' : ['../img/portfolio/large/No9.webp'],
+				'button_list'   :
+				[
+					{ 'title':'More about the application (HUN)', 'url' : 'https://forms.gle/LxpwQ7niZHBf6zmp7' },
+					{ 'title':'Facebook (HUN)', 'url' : 'https://www.facebook.com/photo?fbid=159952430251321&set=a.116351514611413' },
+					{ 'title':'Instagram (HUN)', 'url':'https://www.instagram.com/p/CpxuTu9IWzO/'}
+				],
+				'tags'  : ['Team','All']
+				},
 			{
 			'title' : 'Join us!',
 			'description'   : 'We welcome in our team all enthusiastic students who want to participate in building a racing car! 2023.02.21',
