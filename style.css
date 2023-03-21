@@ -644,7 +644,7 @@ div[data-dimension] {
 /*--------------------*/
 
 #contact{
-	background: none repeat scroll 0 0 #f8f8f8;
+	background: none repeat scroll 0 0 #242434;
 	display: inline;
 	float: left;
 	padding: 80px 0px 0px;
@@ -907,6 +907,64 @@ textarea .form-control {
 .sponsor_big_img{
   width: 420px;
   height: 200px;
+}
+
+/*======================///////////////
+			GYIK style
+=====================///////////////////////*/
+
+#gyik {
+  /*background-image:url(img/progress_bg.webp);*/
+  background-color: #FFFFFF;
+  display: inline;
+  float: left;
+  padding: 80px 0 150px;
+  width: 100%;
+}
+.gyik_content{
+	float: left;
+	display: inline;
+	width: 100%;
+	margin-top: 10px;
+  margin-left: 60px;
+  color:#000000;
+  font-size:16px;	
+}
+.gyik_slider{
+	float: left;
+	display: inline;
+	width: 100%;
+}
+.gyik_client {
+  border: 1px solid #000000;
+  display: inline;
+  float: left;
+  text-align: center;
+  width: 100%;
+  padding: 25px 0px;
+}
+.gyik_client>img{
+	margin: 0 auto;
+}
+.gyik_slider .slick-prev {
+  border-radius: 5px 0 0 5px;
+  color: #000000;
+  height: 40px;
+  left: 46.5%;
+  top: 160%;
+}
+.gyik_slider .slick-next {
+  border-radius: 0 5px 5px 0;
+  color: #000000;
+  right: 46.5%;
+  top: 160%;
+  height: 40px;
+}
+
+.gyik_heading{
+  margin-top:15px;
+  font-size:20px;
+  color:#000000;
 }
 
 /*======================///////////////
