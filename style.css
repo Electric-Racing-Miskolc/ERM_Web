@@ -910,6 +910,63 @@ textarea .form-control {
 }
 
 /*======================///////////////
+			GYIK style
+=====================///////////////////////*/
+
+#gyik {
+  background-image:url(img/progress_bg.webp);
+  display: inline;
+  float: left;
+  padding: 80px 0 150px;
+  width: 100%;
+}
+.gyik_content{
+	float: left;
+	display: inline;
+	width: 100%;
+	margin-top: 10px;
+  margin-left: 60px;
+  color:#fff;
+  font-size:16px;	
+}
+.gyik_slider{
+	float: left;
+	display: inline;
+	width: 100%;
+}
+.gyik_client {
+  border: 1px solid #ccc;
+  display: inline;
+  float: left;
+  text-align: center;
+  width: 100%;
+  padding: 25px 0px;
+}
+.gyik_client>img{
+	margin: 0 auto;
+}
+.gyik_slider .slick-prev {
+  border-radius: 5px 0 0 5px;
+  color: #fff;
+  height: 40px;
+  left: 46.5%;
+  top: 160%;
+}
+.gyik_slider .slick-next {
+  border-radius: 0 5px 5px 0;
+  color: #fff;
+  right: 46.5%;
+  top: 160%;
+  height: 40px;
+}
+
+.gyik_heading{
+  margin-top:15px;
+  font-size:20px;
+  color:#ffffff;
+}
+
+/*======================///////////////
 			start responsive style
 =====================///////////////////////*/
 
