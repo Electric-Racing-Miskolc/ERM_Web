@@ -8,6 +8,19 @@ $("#elastic_grid_demo").elastic_grid({
 	'items' :
 		[
 			{
+				'title' : 'EuroSolid Zrt. Training',
+				'description'   : 'We would like to thank EuroSolid Zrt. for their support in which our team members had the opportunity to participate in a 3-day SolidWorks training. During the training we learned basic program usage skills. This knowledge will greatly contribute to the success of our electric car design. 2023.03.20.',
+				'thumbnail' : ['../img/portfolio/small/No10_1.webp', '../img/portfolio/small/No10_2.webp'],
+			'large' : ['../img/portfolio/large/No10_1.webp', '../img/portfolio/large/No10_2.webp'],
+				'button_list'   :
+				[
+					{ 'title':'Facebook', 'url' : 'https://www.facebook.com/photo?fbid=163722149874349&set=pcb.163722179874346' },
+					{ 'title':'Instagram', 'url':'https://www.instagram.com/p/CqBLFpaI4wU/'},
+					{ 'title':'EuroSolid Zrt.', 'url':'https://eurosolid.hu/'}
+				],
+				'tags'  : ['Sponsored','All']
+				},
+			{
 				'title' : 'Informational night',
 				'description'   : 'On March 22, 2023, at 6:00 p.m., our team will hold an informational presentation about the membership application, in the Informatics building. in classroom 205 of the second floor. If this time is not convenient for you, feel free to ask your questions on one of our social media pages or here on our website! 2023.03.14', 
 				'thumbnail' : ['../img/portfolio/small/No9.webp'],

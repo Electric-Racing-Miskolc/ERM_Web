@@ -7,7 +7,19 @@ $("#elastic_grid_demo").elastic_grid({
 	'expandingHeight': 500,
 	'items' :
 		[
-
+			{
+				'title' : 'EuroSolid Zrt. Oktatás',
+				'description'   : 'Meg szeretnénk köszönni a támogatást az EuroSolid Zrt. -nek, melynek keretein belül csapatunk tagjainak lehetősége nyílt részt venni egy 3 napos SolidWorks oktatáson. Az oktatás keretein belül alapvető programhasználatot sajátítottunk el. Ez a tudás nagyban hozzájárul az elektromos autónk tervezési feladatainak sikeréhez. 2023.03.20.',
+				'thumbnail' : ['img/portfolio/small/No10_1.webp', 'img/portfolio/small/No10_2.webp'],
+			'large' : ['img/portfolio/large/No10_1.webp', 'img/portfolio/large/No10_2.webp'],
+				'button_list'   :
+				[
+					{ 'title':'Facebook', 'url' : 'https://www.facebook.com/photo?fbid=163722149874349&set=pcb.163722179874346' },
+					{ 'title':'Instagram', 'url':'https://www.instagram.com/p/CqBLFpaI4wU/'},
+					{ 'title':'EuroSolid Zrt.', 'url':'https://eurosolid.hu/'}
+				],
+				'tags'  : ['Szponzoráció','Mind']
+				},
 			{
 				'title' : 'Információs est',
 				'description'   : 'Az csapatunk 2023. március 22-én, 18:00-kor tartja meg információs előadását a tagfelvétellel kapcsolatosan, az Informatika épület II. emeletének 205-ös tantermében. Ha nem alkalmas számodra ez az időpont, akkor nyugodtan tedd fel kérdéseidet a social media oldalaink valamelyikén, vagy itt, a weboldalunkon! 2023.03.14',
