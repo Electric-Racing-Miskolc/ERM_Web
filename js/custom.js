@@ -31,7 +31,7 @@ jQuery(function($){
 	/* ----------------------------------------------------------- */
 	jQuery('#slides').superslides({
       animation: 'slide',
-      play: '5000'
+      play: 'plsdont'
     });
 	
 	
@@ -64,7 +64,7 @@ jQuery(function($){
       slide: 'div',
       autoplay: true,
       fade: true,
-      autoplaySpeed: 5000,
+      autoplaySpeed: 3000,
       cssEase: 'linear'
     });
 
