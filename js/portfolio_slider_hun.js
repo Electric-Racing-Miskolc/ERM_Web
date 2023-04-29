@@ -48,7 +48,7 @@ $("#elastic_grid_demo").elastic_grid({
 
 			{
 			'title' : 'Altium szponzoráció',
-			'description'   : 'Csapatunk megvette első elektromos autójának motorját. Szeretnénk megköszönni a Miskolci Egyetem Gépészmérnöki és Informatikai Karának a finanszírozást, valamint a PUT Motorsport-nak az együttműködést! 2023.02.16.',
+			'description'   : 'Szeretnénk megköszönni az Altium a több éves szponzorációját! Az ő professzionális szoftvercsomagukkal nagy mértékben meggyorsul az elektromos autónk egységeinek a tervezése és gyártása! ⚡🏎🏁 2023.02.16.',
 			'thumbnail' : ['img/portfolio/small/No7.webp'],
 			'large' : ['img/portfolio/large/No7.webp'],
 			'button_list'   :

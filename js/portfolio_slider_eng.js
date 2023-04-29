@@ -47,7 +47,7 @@ $("#elastic_grid_demo").elastic_grid({
 
 			{
 			'title' : 'Altium Sponsoration',
-			'description'   : 'Our team had the oportunity to buy their first electric motor. We would like to thank the University of Miskolc, Faculty of Mechanical Engineering and Informatics for the financial support and PUT Motorsport for the collaboration! 2023.02.16.',
+			'description'   : 'We would like to thank Altium for their multi-year support! Thanks to their professional software package, the design and manufacturing process of our systems will become way easier and quicker!⚡🏎🏁 2023.02.16.',
 			'thumbnail' : ['../img/portfolio/small/No7.webp'],
 			'large' : ['../img/portfolio/large/No7.webp'],
 			'button_list'   :
