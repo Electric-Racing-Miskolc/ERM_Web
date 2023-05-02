@@ -10,8 +10,8 @@ $("#elastic_grid_demo").elastic_grid({
 			{
 				'title' : 'HungaroGumi Szponzoráció',
 				'description'   : 'Köszönjük a segítséget és a támogatást a HungaroGumi csapatának! Velük nagyon egyszerű és gördülékeny volt az új felnijeink beszerzése! 2023.05.02.',
-				'thumbnail' : ['img/portfolio/small/No11.webp', 'img/portfolio/small/No11.webp'],
-				'large' : ['img/portfolio/large/No11.webp', 'img/portfolio/large/No11.webp'],
+				'thumbnail' : ['img/portfolio/small/No11.webp'],
+				'large' : ['img/portfolio/large/No11.webp'],
 				'button_list'   :
 				[
 					{ 'title':'Facebook', 'url' : 'https://www.facebook.com/photo?fbid=188991970680700&set=a.116351514611413' },
