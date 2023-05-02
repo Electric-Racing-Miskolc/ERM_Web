@@ -556,12 +556,14 @@ div[data-dimension] {
 .single_team {
   border: 2px solid #ccc;
   border-radius: 5px;
-  display: inline;
+  display: flex;
   float: left;
   padding: 25px 15px;
   text-align: center;
   width: 100%;
   min-height: 475px;
+  flex-direction: column;
+  justify-content: space-between;
 }
 .team_img{
 	float: left;
