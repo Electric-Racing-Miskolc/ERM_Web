@@ -31,7 +31,7 @@ $("#elastic_grid_demo").elastic_grid({
 					{ 'title':'EuroSolid Zrt.', 'url':'https://eurosolid.hu/'}
 				],
 				'tags'  : ['Sponsored','Team','All']
-				},
+			},
 			{
 				'title' : 'Informational night',
 				'description'   : 'On March 22, 2023, at 6:00 p.m., our team will hold an informational presentation about the membership application, in the Informatics building. in classroom 205 of the second floor. If this time is not convenient for you, feel free to ask your questions on one of our social media pages or here on our website! 2023.03.14', 
