@@ -8,18 +8,17 @@ $("#elastic_grid_demo").elastic_grid({
 	'items' :
 		[
 			{
-				'title' : 'HungaroGumi sponsoration',
-				'description'   : 'We would like to thank HungaroGumi for the help and support! They made the purchase of our brand new rims very easy and smooth! 2023.05.02.',
-				'thumbnail' : ['../img/portfolio/small/No11.webp'],
-				'large' : ['../img/portfolio/large/No11.webp'],
+				'title' : 'Techtogether 2023',
+				'description'   : 'Last week our team won the 3rd place in the 10th Techtogether engineering competition in Budapest.🥉 At the award ceremony, we also received a special prize for our achievement in the HUMDA Lab exercise. 🦾 2023.05.17.',
+				'thumbnail' : ['../img/portfolio/small/No12_1.webp','../img/portfolio/small/No12_2.webp','../img/portfolio/small/No12_3.webp','../img/portfolio/small/No12_4.webp','../img/portfolio/small/No12_5.webp','../img/portfolio/small/No12_6.webp','../img/portfolio/small/No12_7.webp'],
+				'large' : ['../img/portfolio/large/No12_1.webp','../img/portfolio/large/No12_2.webp','../img/portfolio/large/No12_3.webp','../img/portfolio/large/No12_4.webp','../img/portfolio/large/No12_5.webp','../img/portfolio/large/No12_6.webp','../img/portfolio/large/No12_7.webp',],
 				'button_list'   :
 				[
-					{ 'title':'Facebook', 'url' : 'https://www.facebook.com/photo?fbid=188991970680700&set=a.116351514611413' },
-					{ 'title':'Instagram', 'url':'https://www.instagram.com/p/CrwEvf7NE2S/'},
-					{ 'title':'HungaroGumi', 'url':'https://hungarogumi.hu/'}
+					{ 'title':'Facebook', 'url' : 'https://www.facebook.com/' },
+					{ 'title':'Instagram', 'url':'https://www.instagram.com/'}
 				],
-				'tags'  : ['Sponsored','All']
-				},
+				'tags'  : ['Competition','All']
+			},
 			{
 				'title' : 'EuroSolid Zrt. Training',
 				'description'   : 'We would like to thank EuroSolid Zrt. for their support in which our team members had the opportunity to participate in a 3-day SolidWorks training. During the training we learned basic program usage skills. This knowledge will greatly contribute to the success of our electric car design. 2023.03.20.',

@@ -8,6 +8,18 @@ $("#elastic_grid_demo").elastic_grid({
 	'items' :
 		[
 			{
+				'title' : 'Techtogether 2023',
+				'description'   : 'Csapatunk részt vett a Budapesten 10. alkalommal megrendezésre került Techtogether mérnökversenyen, melyen 3.helyezést ért el.🥉 Az ünnepélyes díjátadón a HUMDA Lab feladatában teljesített eredményért különdíjat is átvehettünk.🦾 2023.05.17.',
+				'thumbnail' : ['img/portfolio/small/No12_1.webp','img/portfolio/small/No12_2.webp','img/portfolio/small/No12_3.webp','img/portfolio/small/No12_4.webp','img/portfolio/small/No12_5.webp','img/portfolio/small/No12_6.webp','img/portfolio/small/No12_7.webp'],
+				'large' : ['img/portfolio/large/No12_1.webp','img/portfolio/large/No12_2.webp','img/portfolio/large/No12_3.webp','img/portfolio/large/No12_4.webp','img/portfolio/large/No12_5.webp','img/portfolio/large/No12_6.webp','img/portfolio/large/No12_7.webp',],
+				'button_list'   :
+				[
+					{ 'title':'Facebook', 'url' : 'https://www.facebook.com/' },
+					{ 'title':'Instagram', 'url':'https://www.instagram.com/'}
+				],
+				'tags'  : ['Verseny','Mind']
+			},
+			{
 				'title' : 'HungaroGumi Szponzoráció',
 				'description'   : 'Köszönjük a segítséget és a támogatást a HungaroGumi csapatának! Velük nagyon egyszerű és gördülékeny volt az új felnijeink beszerzése! 2023.05.02.',
 				'thumbnail' : ['img/portfolio/small/No11.webp'],
