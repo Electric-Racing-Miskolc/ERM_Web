@@ -14,8 +14,8 @@ $("#elastic_grid_demo").elastic_grid({
 				'large' : ['img/portfolio/large/No12_1.webp','img/portfolio/large/No12_2.webp','img/portfolio/large/No12_3.webp','img/portfolio/large/No12_4.webp','img/portfolio/large/No12_5.webp','img/portfolio/large/No12_6.webp','img/portfolio/large/No12_7.webp',],
 				'button_list'   :
 				[
-					{ 'title':'Facebook', 'url' : 'https://www.facebook.com/' },
-					{ 'title':'Instagram', 'url':'https://www.instagram.com/'}
+					{ 'title':'Facebook', 'url' : 'https://www.facebook.com/ERMiskolc/posts/pfbid02hk8kD21bWdhygZgKD9vcT6n1qriczrv72irMX3b2QzhsDcEjt3JqP5WuXLnuYFy2l' },
+					{ 'title':'Instagram', 'url':'https://www.instagram.com/p/CsiNqZkoITn/'}
 				],
 				'tags'  : ['Verseny','Mind']
 			},
