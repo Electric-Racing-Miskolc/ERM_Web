@@ -17,7 +17,8 @@ $("#elastic_grid_demo").elastic_grid({
 					{ 'title':'Facebook', 'url' : 'https://www.facebook.com/ERMiskolc/posts/pfbid02hk8kD21bWdhygZgKD9vcT6n1qriczrv72irMX3b2QzhsDcEjt3JqP5WuXLnuYFy2l' },
 					{ 'title':'Instagram', 'url':'https://www.instagram.com/p/CsiNqZkoITn/'}
 				],
-				'tags'  : ['Verseny','Mind']
+				'tags'  : ['Verseny','Mind'],
+				'alt' : ['TechTogether']
 			},
 			{
 				'title' : 'HungaroGumi Szponzoráció',
