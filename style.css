@@ -622,7 +622,7 @@ div[data-dimension] {
   background: none repeat scroll 0 0 #242434;
   display: inline;
   float: left;
-  padding: 80px 0 150px;
+  padding: 80px 0 80px;
   width: 100%;
 }
 .clients_content{
@@ -940,7 +940,7 @@ textarea .form-control {
   background-color: #FFFFFF;
   display: inline;
   float: left;
-  padding: 80px 0 150px;
+  padding: 80px 0 80px;
   width: 100%;
 }
 .gyik_content{
