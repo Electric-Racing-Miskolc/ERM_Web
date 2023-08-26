@@ -8,6 +8,18 @@ $("#elastic_grid_demo").elastic_grid({
 	'items' :
 		[
 			{
+				'title' : 'Join us!',
+				'description'   : 'Our team starts the season with the recruitment programme. We welcome all enthusiastic students who want to participate in building a REAL race car! 2023.08.26.',
+				'thumbnail' : ['../img/portfolio/small/No13_1.webp','../img/portfolio/small/No13_2.webp','../img/portfolio/small/No13_3.webp'],
+				'large' : ['../img/portfolio/large/No13_1.webp','../img/portfolio/large/No13_2.webp','../img/portfolio/large/No13_3.webp'],
+				'button_list'   :
+				[
+					{ 'title':'More about the Recruitment', 'url' : 'https://forms.gle/74WR79sqLaiThVga8' },
+				],
+				'tags'  : ['Team','All']
+			},
+
+			{
 				'title' : 'Techtogether 2023',
 				'description'   : 'Last week our team won the 3rd place in the 10th Techtogether engineering competition in Budapest.🥉 At the award ceremony, we also received a special prize for our achievement in the HUMDA Lab exercise. 🦾 2023.05.17.',
 				'thumbnail' : ['../img/portfolio/small/No12_1.webp','../img/portfolio/small/No12_2.webp','../img/portfolio/small/No12_3.webp','../img/portfolio/small/No12_4.webp','../img/portfolio/small/No12_5.webp','../img/portfolio/small/No12_6.webp','../img/portfolio/small/No12_7.webp'],
@@ -32,31 +44,6 @@ $("#elastic_grid_demo").elastic_grid({
 				],
 				'tags'  : ['Sponsored','Team','All']
 			},
-			{
-				'title' : 'Informational night',
-				'description'   : 'On March 22, 2023, at 6:00 p.m., our team will hold an informational presentation about the membership application, in the Informatics building. in classroom 205 of the second floor. If this time is not convenient for you, feel free to ask your questions on one of our social media pages or here on our website! 2023.03.14', 
-				'thumbnail' : ['../img/portfolio/small/No9.webp'],
-				'large' : ['../img/portfolio/large/No9.webp'],
-				'button_list'   :
-				[
-					{ 'title':'More about the application (HUN)', 'url' : 'https://forms.gle/LxpwQ7niZHBf6zmp7' },
-					{ 'title':'Facebook (HUN)', 'url' : 'https://www.facebook.com/photo?fbid=159952430251321&set=a.116351514611413' },
-					{ 'title':'Instagram (HUN)', 'url':'https://www.instagram.com/p/CpxuTu9IWzO/'}
-				],
-				'tags'  : ['Team','All']
-			},
-			{
-				'title' : 'Join us!',
-				'description'   : 'We welcome in our team all enthusiastic students who want to participate in building a racing car! 2023.02.21',
-				'thumbnail' : ['../img/portfolio/small/No8_1.webp', '../img/portfolio/small/No8_2.webp'],
-				'large' : ['../img/portfolio/large/No8_1.webp', '../img/portfolio/large/No8_2.webp'],
-				'button_list'   :
-				[
-					{ 'title':'More about the application', 'url' : 'https://forms.gle/LxpwQ7niZHBf6zmp7' },
-				],
-				'tags'  : ['Team','All']
-			},
-
 			{
 				'title' : 'Altium Sponsoration',
 				'description'   : 'We would like to thank Altium for their multi-year support! Thanks to their professional software package, the design and manufacturing process of our systems will become way easier and quicker!⚡🏎🏁 2023.02.16.',

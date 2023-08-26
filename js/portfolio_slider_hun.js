@@ -8,6 +8,18 @@ $("#elastic_grid_demo").elastic_grid({
 	'items' :
 		[
 			{
+				'title' : 'Tagfelvétel 23/24',
+				'description'   : 'Csapatunk újra tagfelvételt hirdet! Várunk minden diákot aki szeretne részese lenni egy IGAZI versenyautó megépítésében! 2023.08.26.',
+				'thumbnail' : ['img/portfolio/small/No13_1.webp','img/portfolio/small/No13_2.webp','img/portfolio/small/No13_3.webp'],
+				'large' : ['img/portfolio/large/No13_1.webp','img/portfolio/large/No13_2.webp','img/portfolio/large/No13_3.webp'],
+				'button_list'   :
+				[
+					{ 'title':'Tagfelvételről bővebben', 'url' : 'https://forms.gle/74WR79sqLaiThVga8' },
+				],
+				'tags'  : ['Csapat','Mind']
+			},
+
+			{
 				'title' : 'Techtogether 2023',
 				'description'   : 'Csapatunk részt vett a Budapesten 10. alkalommal megrendezésre került Techtogether mérnökversenyen, melyen 3.helyezést ért el.🥉 Az ünnepélyes díjátadón a HUMDA Lab feladatában teljesített eredményért különdíjat is átvehettünk.🦾 2023.05.17.',
 				'thumbnail' : ['img/portfolio/small/No12_1.webp','img/portfolio/small/No12_2.webp','img/portfolio/small/No12_3.webp','img/portfolio/small/No12_4.webp','img/portfolio/small/No12_5.webp','img/portfolio/small/No12_6.webp','img/portfolio/small/No12_7.webp'],
@@ -44,30 +56,6 @@ $("#elastic_grid_demo").elastic_grid({
 					{ 'title':'EuroSolid Zrt.', 'url':'https://eurosolid.hu/'}
 				],
 				'tags'  : ['Szponzoráció','Csapat','Mind']
-			},
-			{
-				'title' : 'Információs est',
-				'description'   : 'Az csapatunk 2023. március 22-én, 18:00-kor tartja meg információs előadását a tagfelvétellel kapcsolatosan, az Informatika épület II. emeletének 205-ös tantermében. Ha nem alkalmas számodra ez az időpont, akkor nyugodtan tedd fel kérdéseidet a social media oldalaink valamelyikén, vagy itt, a weboldalunkon! 2023.03.14',
-				'thumbnail' : ['img/portfolio/small/No9.webp'],
-				'large' : ['img/portfolio/large/No9.webp'],
-				'button_list'   :
-				[
-					{ 'title':'A felvételiről bővebben', 'url' : 'https://forms.gle/LxpwQ7niZHBf6zmp7' },
-					{ 'title':'Facebook', 'url' : 'https://www.facebook.com/photo?fbid=159952430251321&set=a.116351514611413' },
-					{ 'title':'Instagram', 'url':'https://www.instagram.com/p/CpxuTu9IWzO/'}
-				],
-				'tags'  : ['Csapat','Mind']
-			},
-			{
-				'title' : 'Tagfelvétel',
-				'description'   : 'Szeretettel várunk csapatunkban minden lelkes hallgatót, aki rész szeretne venni egy versenyautó megépítésében! 2023.02.21',
-				'thumbnail' : ['img/portfolio/small/No8_1.webp', 'img/portfolio/small/No8_2.webp'],
-				'large' : ['img/portfolio/large/No8_1.webp', 'img/portfolio/large/No8_2.webp'],
-				'button_list'   :
-				[
-						{ 'title':'A felvételiről bővebben', 'url' : 'https://forms.gle/LxpwQ7niZHBf6zmp7' },
-				],
-				'tags'  : ['Csapat','Mind']
 			},
 			{
 				'title' : 'Altium szponzoráció',
