@@ -8,6 +8,17 @@ $("#elastic_grid_demo").elastic_grid({
 	'items' :
 		[
 			{
+				'title' : 'Info night!',
+				'description'   : 'Don\'t forget, on September 18, evening from 18:00 Info night at the Fintelligence room❗️We welcome all interested parties! 🤗 2023.09.14.',
+				'thumbnail' : ['../img/portfolio/small/No14.webp'],
+				'large' : ['../img/portfolio/large/No14.webp'],
+				'button_list'   :
+				[
+					{ 'title':'More about the Recruitment', 'url' : 'https://forms.gle/74WR79sqLaiThVga8' },
+				],
+				'tags'  : ['Team','All']
+			},
+			{
 				'title' : 'Join us!',
 				'description'   : 'Our team starts the season with the recruitment programme. We welcome all enthusiastic students who want to participate in building a REAL race car! 2023.08.26.',
 				'thumbnail' : ['../img/portfolio/small/No13_1.webp','../img/portfolio/small/No13_2.webp','../img/portfolio/small/No13_3.webp'],

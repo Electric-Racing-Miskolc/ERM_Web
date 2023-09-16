@@ -5,8 +5,19 @@ $("#elastic_grid_demo").elastic_grid({
 	'hoverInverse': false,
 	'expandingSpeed': 500,
 	'expandingHeight': 500,
-	'items' :
+	'items' : 
 		[
+			{
+				'title' : 'Információs est!',
+				'description'   : 'Ne feledjétek, szeptember 18-án, este 18:00-tól Információs est a Fintelligence teremben❗️Várunk minden kedves érdeklődőt! 🤗 2023.09.14.',
+				'thumbnail' : ['img/portfolio/small/No14.webp'],
+				'large' : ['img/portfolio/large/No14.webp'],
+				'button_list'   :
+				[
+					{ 'title':'Tagfelvételről bővebben', 'url' : 'https://forms.gle/74WR79sqLaiThVga8' },
+				],
+				'tags'  : ['Csapat','Mind']
+			},
 			{
 				'title' : 'Tagfelvétel 23/24',
 				'description'   : 'Csapatunk újra tagfelvételt hirdet! Várunk minden diákot aki szeretne részese lenni egy IGAZI versenyautó megépítésében! 2023.08.26.',
