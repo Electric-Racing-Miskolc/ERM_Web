@@ -8,6 +8,39 @@ $("#elastic_grid_demo").elastic_grid({
 	'items' : 
 		[
 			{
+				'title' : '4Turbo Szponzoráció',
+				'description'   : 'Szeretnénk megköszönni a 4turbo-nak a támogatást, melynek köszönhetően kedvezményesen vásárolhattuk meg fékrendszerünk alapvető alkatrészeit.🏎⚡ 2023.09.30.',
+				'thumbnail' : ['img/portfolio/small/No17.webp'],
+				'large' : ['img/portfolio/large/No17.webp'],
+				'button_list'   :
+				[
+					{ 'title':'4turbo', 'url' : 'https://www.4turbo.pl/' },
+				],
+				'tags'  : ['Szponzoráció','Mind']
+			},
+			{
+				'title' : 'Drexler Szponzoráció',
+				'description'   : 'Szeretnénk megköszönni a Drexler Automotive GmbH-nak a támogatást, mely lehetővé tette differenciálművünk megvásárlását, és nagyban hozzájárult versenyautónk teljes rendszeréhez. 🏎⚡ 2023.09.28.',
+				'thumbnail' : ['img/portfolio/small/No16.webp'],
+				'large' : ['img/portfolio/large/No16.webp'],
+				'button_list'   :
+				[
+					{ 'title':'Drexler Automotive GmbH', 'url' : 'https://www.drexler-automotive.com/' },
+				],
+				'tags'  : ['Szponzoráció','Mind']
+			},
+			{
+				'title' : 'Műszeroázis Szponzoráció',
+				'description'   : 'Szeretnénk megköszönni a Műszeroázis-nak a támogatást! A tőlük vásárolt szigetelési ellenállásmérő és mikroohm mérő segítségével az autónk nagyfeszültségű rendszerének biztonságos működését tudjuk megállapítani. 🏎⚡️ 2023.09.25.',
+				'thumbnail' : ['img/portfolio/small/No15.webp'],
+				'large' : ['img/portfolio/large/No15.webp'],
+				'button_list'   :
+				[
+					{ 'title':'Műszeroázis', 'url' : 'https://muszeroazis.hu/' },
+				],
+				'tags'  : ['Szponzoráció','Mind']
+			},
+			{
 				'title' : 'Információs est!',
 				'description'   : 'Ne feledjétek, szeptember 18-án, este 18:00-tól Információs est a Fintelligence teremben❗️Várunk minden kedves érdeklődőt! 🤗 2023.09.14.',
 				'thumbnail' : ['img/portfolio/small/No14.webp'],
@@ -69,7 +102,7 @@ $("#elastic_grid_demo").elastic_grid({
 				'tags'  : ['Szponzoráció','Csapat','Mind']
 			},
 			{
-				'title' : 'Altium szponzoráció',
+				'title' : 'Altium Szponzoráció',
 				'description'   : 'Szeretnénk megköszönni az Altium a több éves szponzorációját! Az ő professzionális szoftvercsomagukkal nagy mértékben meggyorsul az elektromos autónk egységeinek a tervezése és gyártása! ⚡🏎🏁 2023.02.16.',
 				'thumbnail' : ['img/portfolio/small/No7.webp'],
 				'large' : ['img/portfolio/large/No7.webp'],
@@ -120,7 +153,7 @@ $("#elastic_grid_demo").elastic_grid({
 				'tags'  : ['Szponzoráció','Mind']
 			},
 			{
-				'title' : 'Egyetemi szerszám szponzoráció',
+				'title' : 'Egyetemi szerszám Szponzoráció',
 				'description'   : 'Köszönjük a Miskolci Egyetem támogatását a csapat létrehozásában és a műhelyünk felszerelésében. 2022.11.16',
 				'thumbnail' : ['img/portfolio/small/No3.webp'],
 				'large' : ['img/portfolio/large/No3.webp'],

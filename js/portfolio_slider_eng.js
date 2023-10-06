@@ -8,6 +8,39 @@ $("#elastic_grid_demo").elastic_grid({
 	'items' :
 		[
 			{
+				'title' : '4Turbo Sponsoration',
+				'description'   : 'We would like to thank 4turbo for their support because of which we were able to buy the essential parts of our braking system.🏎⚡ 2023.09.30.',
+				'thumbnail' : ['../img/portfolio/small/No17.webp'],
+				'large' : ['../img/portfolio/large/No17.webp'],
+				'button_list'   :
+				[
+					{ 'title':'4turbo', 'url' : 'https://www.4turbo.pl/' },
+				],
+				'tags'  : ['Sponsored','All']
+			},
+			{
+				'title' : 'Drexler Sponsoration',
+				'description'   : 'We would like to thank Drexler Automotive GmbH for their support, because of which we were able to buy the differential, which largely contributed to the system of our race car. 🏎⚡ 2023.09.28.',
+				'thumbnail' : ['../img/portfolio/small/No16.webp'],
+				'large' : ['../img/portfolio/large/No16.webp'],
+				'button_list'   :
+				[
+					{ 'title':'Drexler Automotive GmbH', 'url' : 'https://www.drexler-automotive.com/' },
+				],
+				'tags'  : ['Sponsored','All']
+			},
+			{
+				'title' : 'Műszeroázis Sponsoration',
+				'description'   : 'We would like to thank Műszeroázis for their support! With the help of the insulation resistance meter and the micro-ohmmeter we will be able to make sure the high-voltage system of our car is operating safely. 🏎⚡️ 2023.09.25.',
+				'thumbnail' : ['../img/portfolio/small/No15.webp'],
+				'large' : ['../img/portfolio/large/No15.webp'],
+				'button_list'   :
+				[
+					{ 'title':'Műszeroázis', 'url' : 'https://muszeroazis.hu/' },
+				],
+				'tags'  : ['Sponsored','All']
+			},
+			{
 				'title' : 'Info night!',
 				'description'   : 'Don\'t forget, on September 18, evening from 18:00 Info night at the Fintelligence room❗️We welcome all interested parties! 🤗 2023.09.14.',
 				'thumbnail' : ['../img/portfolio/small/No14.webp'],
