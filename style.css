@@ -475,6 +475,12 @@ div[data-dimension] {
   margin: 0 auto;
   font-size: 40px;
 }
+.fa-2x_svg {
+  display: table;
+  float: none;
+  margin: 0 auto;
+  height: 40px;
+}
 .portfolio_area {
   background: none repeat scroll 0 0 #4f535e;
   color: #fff;
