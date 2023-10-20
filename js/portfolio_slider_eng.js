@@ -8,6 +8,19 @@ $("#elastic_grid_demo").elastic_grid({
 	'items' :
 		[
 			{
+				'title' : 'Techtogether+',
+				'description'   : 'The Electric Racing Miskolc team has returned home with a huge success!🏁 On Tuesday 17 October, for the second time this year, the Techtogether+ engineering student competition was held at the Eiffel Workshop House in Budapest. 📍 The team won special prizes from 3 companies (ACPS Automotive Kft. , AVL Hungary Kft. , Hepenix Kft.) and also took 2nd place on the podium. 🥈 2023.10.19.',
+				'thumbnail' : ['../img/portfolio/small/No18_1.webp','../img/portfolio/small/No18_2.webp','../img/portfolio/small/No18_3.webp','../img/portfolio/small/No18_4.webp','../img/portfolio/small/No18_5.webp','../img/portfolio/small/No18_6.webp','../img/portfolio/small/No18_7.webp'],
+				'large' : ['../img/portfolio/large/No18_1.webp','../img/portfolio/large/No18_2.webp','../img/portfolio/large/No18_3.webp','../img/portfolio/large/No18_4.webp','../img/portfolio/large/No18_5.webp','../img/portfolio/large/No18_6.webp','../img/portfolio/large/No18_7.webp'],
+				'button_list'   :
+				[
+					{ 'title':'Autopro.hu', 'url' : 'https://autopro.hu/techtogether/a-bme-frt-nyerte-a-techtogether-versenyet/1000466' },
+					{ 'title':'Facebook post', 'url' : 'https://www.facebook.com/story.php?story_fbid=pfbid0kaFdNJPqxCPxoRZrpCBjv4F7k6jzSyvr39Dp6BhGLvvtQvMkvDtd65417v3Dn2SDl&id=100087096955811' },
+					{ 'title':'Instagram post', 'url' : 'https://www.instagram.com/p/Cyl2oB9su2Z/?img_index=1' },
+				],
+				'tags'  : ['Team','All']
+			},
+			{
 				'title' : '4Turbo Sponsoration',
 				'description'   : 'We would like to thank 4turbo for their support because of which we were able to buy the essential parts of our braking system.🏎⚡ 2023.09.30.',
 				'thumbnail' : ['../img/portfolio/small/No17.webp'],
