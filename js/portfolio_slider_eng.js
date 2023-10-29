@@ -8,6 +8,17 @@ $("#elastic_grid_demo").elastic_grid({
 	'items' :
 		[
 			{
+				'title' : 'Autopro.hu article',
+				'description'   : 'Have you read our article with autopro.hu? 🤓Our team leader answered many questions about recruitment, team and our future plans. 🏁 If you want to read it, visit the link below! 2023.10.29.',
+				'thumbnail' : ['../img/portfolio/small/No19_1.webp','../img/portfolio/small/No19_2.webp'],
+				'large' : ['../img/portfolio/large/No19_1.webp','../img/portfolio/large/No19_2.webp'],
+				'button_list'   :
+				[
+					{ 'title':'Autopro.hu article', 'url' : 'https://autopro.hu/techtogether/gozerovel-dolgozik-elso-autojan-a-miskolci-csapat/971340?fbclid=IwAR33_O_3tDrXRS1RG39qQbo3WkFNbYL0kQw9JSqKaSYNK2IPn5d9G44CKQM_aem_AXd_HmG3ZODgxN-uuTE9J8ugUkZx0X9YRBF-_J4BVtamxwbUOcwDTaL5Qc2gwM7FqKc' },
+				],
+				'tags'  : ['Team','All']
+			},
+			{
 				'title' : 'Techtogether+',
 				'description'   : 'The Electric Racing Miskolc team has returned home with a huge success!🏁 On Tuesday 17 October, for the second time this year, the Techtogether+ engineering student competition was held at the Eiffel Workshop House in Budapest. 📍 The team won special prizes from 3 companies (ACPS Automotive Kft. , AVL Hungary Kft. , Hepenix Kft.) and also took 2nd place on the podium. 🥈 2023.10.19.',
 				'thumbnail' : ['../img/portfolio/small/No18_1.webp','../img/portfolio/small/No18_2.webp','../img/portfolio/small/No18_3.webp','../img/portfolio/small/No18_4.webp','../img/portfolio/small/No18_5.webp','../img/portfolio/small/No18_6.webp','../img/portfolio/small/No18_7.webp'],
@@ -18,7 +29,7 @@ $("#elastic_grid_demo").elastic_grid({
 					{ 'title':'Facebook post', 'url' : 'https://www.facebook.com/story.php?story_fbid=pfbid0kaFdNJPqxCPxoRZrpCBjv4F7k6jzSyvr39Dp6BhGLvvtQvMkvDtd65417v3Dn2SDl&id=100087096955811' },
 					{ 'title':'Instagram post', 'url' : 'https://www.instagram.com/p/Cyl2oB9su2Z/?img_index=1' },
 				],
-				'tags'  : ['Team','All']
+				'tags'  : ['Team','Competition','All']
 			},
 			{
 				'title' : '4Turbo Sponsoration',
