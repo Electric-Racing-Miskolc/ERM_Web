@@ -9,7 +9,7 @@ $("#elastic_grid_demo").elastic_grid({
 		[
 			{
 				'title' : 'Autopro.hu article',
-				'description'   : 'Have you read our article with autopro.hu? 🤓Our team leader answered many questions about recruitment, team and our future plans. 🏁 If you want to read it, visit the link below! 2023.10.29.',
+				'description'   : 'Have you read our article with autopro.hu? 🤓Our team leader answered many questions about recruitment, the team and our future plans. 🏁 If you want to read it, visit the link below! 2023.10.29.',
 				'thumbnail' : ['../img/portfolio/small/No19_1.webp','../img/portfolio/small/No19_2.webp'],
 				'large' : ['../img/portfolio/large/No19_1.webp','../img/portfolio/large/No19_2.webp'],
 				'button_list'   :
