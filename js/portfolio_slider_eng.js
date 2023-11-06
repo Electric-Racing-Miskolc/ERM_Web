@@ -40,7 +40,7 @@ $("#elastic_grid_demo").elastic_grid({
 				[
 					{ 'title':'Henkel', 'url' : 'https://www.henkel.hu/' },
 				],
-				'tags'  : ['Sponsoration','All']
+				'tags'  : ['Sponsored','All']
 			},
 			{
 				'title' : '4Turbo Sponsoration',
