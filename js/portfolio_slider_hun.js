@@ -32,6 +32,17 @@ $("#elastic_grid_demo").elastic_grid({
 				'tags'  : ['Csapat','Verseny','Mind']
 			},
 			{
+				'title' : 'Loctite X Teroson Szponzoráció',
+				'description'   : 'Szeretnénk megköszönni a Henkel Magyarorszag Kft. támogatását. A tőlük kapott termékek nagyban hozzájárulnak versenyautónk megépítéséhez. 🏎⚡ 2023.10.26.',
+				'thumbnail' : ['img/portfolio/small/No20.webp'],
+				'large' : ['img/portfolio/large/No20.webp'],
+				'button_list'   :
+				[
+					{ 'title':'Henkel', 'url' : 'https://www.henkel.hu/' },
+				],
+				'tags'  : ['Szponzoráció','Mind']
+			},
+			{
 				'title' : '4Turbo Szponzoráció',
 				'description'   : 'Szeretnénk megköszönni a 4turbo-nak a támogatást, melynek köszönhetően kedvezményesen vásárolhattuk meg fékrendszerünk alapvető alkatrészeit.🏎⚡ 2023.09.30.',
 				'thumbnail' : ['img/portfolio/small/No17.webp'],

@@ -32,6 +32,17 @@ $("#elastic_grid_demo").elastic_grid({
 				'tags'  : ['Team','Competition','All']
 			},
 			{
+				'title' : 'Loctite X Teroson Sponsoration',
+				'description'   : 'We would like to thank Henkel Magyarorszag Kft. for their support. The products we received from them greatly contribute to the building of our race car. 🏎⚡ 2023.10.26.',
+				'thumbnail' : ['../img/portfolio/small/No20.webp'],
+				'large' : ['../img/portfolio/large/No20.webp'],
+				'button_list'   :
+				[
+					{ 'title':'Henkel', 'url' : 'https://www.henkel.hu/' },
+				],
+				'tags'  : ['Sponsoration','All']
+			},
+			{
 				'title' : '4Turbo Sponsoration',
 				'description'   : 'We would like to thank 4turbo for their support because of which we were able to buy the essential parts of our braking system.🏎⚡ 2023.09.30.',
 				'thumbnail' : ['../img/portfolio/small/No17.webp'],
