@@ -8,6 +8,17 @@ $("#elastic_grid_demo").elastic_grid({
 	'items' :
 		[
 			{
+				'title' : 'Bender Sponsoration',
+				'description'   : 'When building our electric racecar, we need to pay special attention to the safe operation of the electrical system to ensure that our drivers are safe while driving the car. We would like to thank our newest partner  @Bender GmbH & Co. KG for contributing to the safe operation of our electric system by sponsoring us with two ISOMETER® units to keep our drivers safe at all times during dynamic events.🏎⚡️ 2023.11.05.',
+				'thumbnail' : ['../img/portfolio/small/No22.webp'],
+				'large' : ['../img/portfolio/large/No22.webp'],
+				'button_list'   :
+				[
+					{ 'title':'Bender', 'url' : 'www.bender.de' },
+				],
+				'tags'  : ['Sponsored','All']
+			},
+			{
 				'title' : 'Autopro.hu article',
 				'description'   : 'Have you read our article with autopro.hu? 🤓Our team leader answered many questions about recruitment, the team and our future plans. 🏁 If you want to read it, visit the link below! 2023.10.29.',
 				'thumbnail' : ['../img/portfolio/small/No19_1.webp','../img/portfolio/small/No19_2.webp'],
