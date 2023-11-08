@@ -43,6 +43,17 @@ $("#elastic_grid_demo").elastic_grid({
 				'tags'  : ['Sponsored','All']
 			},
 			{
+				'title' : 'Melasta Sponsoration',
+				'description'   : 'We would like to thank Melasta for their support, because of which we were able to buy the battery cells for our racecar at a significant discount. 🏎⚡ 2023.10.07.',
+				'thumbnail' : ['../img/portfolio/small/No21.webp'],
+				'large' : ['../img/portfolio/large/No21.webp'],
+				'button_list'   :
+					[
+						{ 'title':'Melasta', 'url' : 'https://www.melasta.com/' },
+					],
+				'tags'  : ['Sponsored','All']
+			},
+			{
 				'title' : '4Turbo Sponsoration',
 				'description'   : 'We would like to thank 4turbo for their support because of which we were able to buy the essential parts of our braking system.🏎⚡ 2023.09.30.',
 				'thumbnail' : ['../img/portfolio/small/No17.webp'],

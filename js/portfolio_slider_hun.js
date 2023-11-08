@@ -43,6 +43,17 @@ $("#elastic_grid_demo").elastic_grid({
 				'tags'  : ['Szponzoráció','Mind']
 			},
 			{
+				'title' : 'Melasta Szponzoráció',
+				'description'   : 'Szeretnénk megköszönni a Melasta támogatását, melynek köszönhetően jelentős kedvezménnyel vásárolhattuk meg a versenyautónkhoz szükséges akkumulátor cellákat.🏎⚡ 2023.10.07.',
+				'thumbnail' : ['img/portfolio/small/No21.webp'],
+				'large' : ['img/portfolio/large/No21.webp'],
+				'button_list'   :
+					[
+						{ 'title':'Melasta', 'url' : 'https://www.melasta.com/' },
+					],
+				'tags'  : ['Szponzoráció','Mind']
+			},
+			{
 				'title' : '4Turbo Szponzoráció',
 				'description'   : 'Szeretnénk megköszönni a 4turbo-nak a támogatást, melynek köszönhetően kedvezményesen vásárolhattuk meg fékrendszerünk alapvető alkatrészeit.🏎⚡ 2023.09.30.',
 				'thumbnail' : ['img/portfolio/small/No17.webp'],
