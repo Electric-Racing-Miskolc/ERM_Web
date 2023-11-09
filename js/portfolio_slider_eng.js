@@ -25,7 +25,7 @@ $("#elastic_grid_demo").elastic_grid({
 				'large' : ['../img/portfolio/large/No22.webp'],
 				'button_list'   :
 				[
-					{ 'title':'Bender', 'url' : 'www.bender.de' },
+					{ 'title':'Bender', 'url' : 'https://www.bender.de' },
 				],
 				'tags'  : ['Sponsored','All']
 			},
