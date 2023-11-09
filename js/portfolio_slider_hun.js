@@ -8,6 +8,17 @@ $("#elastic_grid_demo").elastic_grid({
 	'items' : 
 		[
 			{
+				'title' : 'Bender Szponzoráció',
+				'description'   : 'Elektromos autónk építése során különös figyelmet kell fordítanunk az elektromos rendszer biztonságos üzemeltetésére annak érdekében, hogy pilótáink biztonságban legyenek az autó vezetése közben. Ezúton szeretnénk megköszönni legújabb partnerünk Bender GmbH & Co. KG támogatását, aki két ISOMETER® szponzorálásával járult hozzá elektromos rendszerünk biztonságos működéséhez!🏎⚡️ 2023.11.05.',
+				'thumbnail' : ['img/portfolio/small/No22.webp'],
+				'large' : ['img/portfolio/large/No22.webp'],
+				'button_list'   :
+				[
+					{ 'title':'Bender', 'url' : 'www.bender.de' },
+				],
+				'tags'  : ['Szponzoráció','Mind']
+			},
+			{
 				'title' : 'Autopro.hu cikk',
 				'description'   : 'Olvastátok már az autopro.hu -val készített cikkünket? 🤓Csapatvezetőnk számos kérdésre adott választ a tagfelvétellel, csapattal és a jövőbeli tervekkel kapcsolatban. 🏁 Ha kíváncsi vagy rá látogass el az alábbi linkre! 2023.10.29.',
 				'thumbnail' : ['img/portfolio/small/No19_1.webp','img/portfolio/small/No19_2.webp'],
@@ -16,7 +27,7 @@ $("#elastic_grid_demo").elastic_grid({
 				[
 					{ 'title':'Autopro.hu cikk', 'url' : 'https://autopro.hu/techtogether/gozerovel-dolgozik-elso-autojan-a-miskolci-csapat/971340?fbclid=IwAR33_O_3tDrXRS1RG39qQbo3WkFNbYL0kQw9JSqKaSYNK2IPn5d9G44CKQM_aem_AXd_HmG3ZODgxN-uuTE9J8ugUkZx0X9YRBF-_J4BVtamxwbUOcwDTaL5Qc2gwM7FqKc' },
 				],
-				'tags'  : ['Csapat','Mind']
+				'tags'  :  ['Csapat','Mind']
 			},
 			{
 				'title' : 'Techtogether+',
@@ -40,6 +51,17 @@ $("#elastic_grid_demo").elastic_grid({
 				[
 					{ 'title':'Henkel', 'url' : 'https://www.henkel.hu/' },
 				],
+				'tags'  : ['Szponzoráció','Mind']
+			},
+			{
+				'title' : 'Melasta Szponzoráció',
+				'description'   : 'Szeretnénk megköszönni a Melasta támogatását, melynek köszönhetően jelentős kedvezménnyel vásárolhattuk meg a versenyautónkhoz szükséges akkumulátor cellákat.🏎⚡ 2023.10.07.',
+				'thumbnail' : ['img/portfolio/small/No21.webp'],
+				'large' : ['img/portfolio/large/No21.webp'],
+				'button_list'   :
+					[
+						{ 'title':'Melasta', 'url' : 'https://www.melasta.com/' },
+					],
 				'tags'  : ['Szponzoráció','Mind']
 			},
 			{
