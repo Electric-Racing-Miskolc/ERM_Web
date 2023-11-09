@@ -8,6 +8,17 @@ $("#elastic_grid_demo").elastic_grid({
 	'items' :
 		[
 			{
+				'title' : 'Loctite X Teroson Sponsoration',
+				'description'   : 'The connection of the carbon-composite and metal components designed for our suspension system is solved using the Loctite EA 9466 2-component adhesive, and the surfaces are prepared with the help of Loctite SF 7061 and 7063. We would like to thank Henkel Magyarország for supporting our team\'s work with these products. 🏎⚡ 2023.11.09.',
+				'thumbnail' : ['../img/portfolio/small/No23.webp'],
+				'large' : ['../img/portfolio/large/No23.webp'],
+				'button_list'   :
+					[
+						{ 'title':'Henkel', 'url' : 'https://www.henkel.hu/' },
+					],
+				'tags'  : ['Sponsored','All']
+			},
+			{
 				'title' : 'Bender Sponsoration',
 				'description'   : 'When building our electric racecar, we need to pay special attention to the safe operation of the electrical system to ensure that our drivers are safe while driving the car. We would like to thank our newest partner  @Bender GmbH & Co. KG for contributing to the safe operation of our electric system by sponsoring us with two ISOMETER® units to keep our drivers safe at all times during dynamic events.🏎⚡️ 2023.11.05.',
 				'thumbnail' : ['../img/portfolio/small/No22.webp'],

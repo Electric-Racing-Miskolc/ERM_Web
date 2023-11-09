@@ -8,14 +8,25 @@ $("#elastic_grid_demo").elastic_grid({
 	'items' : 
 		[
 			{
+				'title' : 'Loctite X Teroson Szponzoráció',
+				'description'   : 'A futóművünkhöz tervezett karbon-kompozit és fém alkatrészeink csatlakozását a Loctite EA 9466 2 komponensű ragasztóval oldjuk meg, a felületeket pedig a Loctite SF 7061 és 7063 segítségével készítjük elő. Köszönjük a Henkel Magyarország-nak, hogy ezen termékekkel segítette csapatunk munkáját. 🏎⚡ 2023.11.09.',
+				'thumbnail' : ['img/portfolio/small/No23.webp'],
+				'large' : ['img/portfolio/large/No23.webp'],
+				'button_list'   :
+					[
+						{ 'title':'Henkel', 'url' : 'https://www.henkel.hu/' },
+					],
+				'tags'  : ['Szponzoráció','Mind']
+			},
+			{
 				'title' : 'Bender Szponzoráció',
 				'description'   : 'Elektromos autónk építése során különös figyelmet kell fordítanunk az elektromos rendszer biztonságos üzemeltetésére annak érdekében, hogy pilótáink biztonságban legyenek az autó vezetése közben. Ezúton szeretnénk megköszönni legújabb partnerünk Bender GmbH & Co. KG támogatását, aki két ISOMETER® szponzorálásával járult hozzá elektromos rendszerünk biztonságos működéséhez!🏎⚡️ 2023.11.05.',
 				'thumbnail' : ['img/portfolio/small/No22.webp'],
 				'large' : ['img/portfolio/large/No22.webp'],
 				'button_list'   :
-				[
-					{ 'title':'Bender', 'url' : 'www.bender.de' },
-				],
+					[
+						{ 'title':'Bender', 'url' : 'www.bender.de' },
+					],
 				'tags'  : ['Szponzoráció','Mind']
 			},
 			{
