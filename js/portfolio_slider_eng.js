@@ -8,6 +8,17 @@ $("#elastic_grid_demo").elastic_grid({
 	'items' :
 		[
 			{
+				'title' : 'TE Connectivity Sponsoration',
+				'description'   : 'We would like to thank TE Connectivity for providing the high voltage connectors and other electronic components necessary for the construction of our race car.🦾 2023.11.13.',
+				'thumbnail' : ['../img/portfolio/small/No24.webp'],
+				'large' : ['../img/portfolio/large/No24.webp'],
+				'button_list'   :
+					[
+						{ 'title':'TE Connectivity', 'url' : 'https://www.te.com/usa-en/home.html' },
+					],
+				'tags'  : ['Sponsored','All']
+			},
+			{
 				'title' : 'Loctite X Teroson Sponsoration',
 				'description'   : 'The connection of the carbon-composite and metal components designed for our suspension system is solved using the Loctite EA 9466 2-component adhesive, and the surfaces are prepared with the help of Loctite SF 7061 and 7063. We would like to thank Henkel Magyarország for supporting our team\'s work with these products. 🏎⚡ 2023.11.09.',
 				'thumbnail' : ['../img/portfolio/small/No23.webp'],

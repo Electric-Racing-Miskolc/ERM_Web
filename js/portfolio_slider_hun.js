@@ -8,6 +8,17 @@ $("#elastic_grid_demo").elastic_grid({
 	'items' : 
 		[
 			{
+				'title' : 'TE Connectivity Szponzoráció',
+				'description'   : 'Köszönjük a TE Connectivity-nek a versenyautónk megépítéséhez szükséges nagy feszültségű csatlakozók és egyéb elektronikai alkatrészek biztosítását.🦾 2023.11.13.',
+				'thumbnail' : ['img/portfolio/small/No24.webp'],
+				'large' : ['img/portfolio/large/No24.webp'],
+				'button_list'   :
+					[
+						{ 'title':'TE Connectivity', 'url' : 'https://www.te.com/usa-en/home.html' },
+					],
+				'tags'  : ['Szponzoráció','Mind']
+			},
+			{
 				'title' : 'Loctite X Teroson Szponzoráció',
 				'description'   : 'A futóművünkhöz tervezett karbon-kompozit és fém alkatrészeink csatlakozását a Loctite EA 9466 2 komponensű ragasztóval oldjuk meg, a felületeket pedig a Loctite SF 7061 és 7063 segítségével készítjük elő. Köszönjük a Henkel Magyarország-nak, hogy ezen termékekkel segítette csapatunk munkáját. 🏎⚡ 2023.11.09.',
 				'thumbnail' : ['img/portfolio/small/No23.webp'],
