@@ -7,6 +7,7 @@ $("#elastic_grid_demo").elastic_grid({
 	'expandingHeight': 500,
 	'items' : 
 		[
+			
 			{
 				'title' : 'LOCTITE Szponzoráció',
 				'description'   : 'Legyen szó fúrásról, fűrészelésről, menetvágásról, a LOCTITE LB 8031 növeli megmunkáló szerszámaink élettartamát és simább megmunkált felületet biztosít akár acélról, edzett acélról vagy színesfémekről legyen szó. Köszönjük a Loctite csapatának a támogatást!🏎⚡ 2023.12.08.',
