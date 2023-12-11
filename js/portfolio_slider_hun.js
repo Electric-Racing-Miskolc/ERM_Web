@@ -9,6 +9,17 @@ $("#elastic_grid_demo").elastic_grid({
 		[
 			{
 				'title' : 'LOCTITE Szponzoráció',
+				'description'   : 'Legyen szó fúrásról, fűrészelésről, menetvágásról, a LOCTITE LB 8031 növeli megmunkáló szerszámaink élettartamát és simább megmunkált felületet biztosít akár acélról, edzett acélról vagy színesfémekről legyen szó. Köszönjük a Loctite csapatának a támogatást!🏎⚡ 2023.12.08.',
+				'thumbnail' : ['img/portfolio/small/No26.webp'],
+				'large' : ['img/portfolio/large/No26.webp'],
+				'button_list'   :
+					[
+						{ 'title':'LOCTITE', 'url' : 'https://www.henkel-adhesives.com/hu/hu/rólunk/márkáink/loctite.html' },
+					],
+				'tags'  : ['Szponzoráció','Mind']
+			},
+			{
+				'title' : 'LOCTITE Szponzoráció',
 				'description'   : 'Mivel csapatunk egy elektromos versenyautó építésével foglalkozik, nagy hasznát vesszük a LOCTITE SF 7039 kontakt tisztítónak, mely egy megbízható és hatékony megoldást biztosít az elektromos érintkezők tisztítására, kiszorítja a nedvességet és egyéb szennyeződéseket, ezzel segítve autónk optimális működését és teljesítményét. Köszönjük a Loctite  csapatának, hogy ezzel a termékkel is segíti munkánkat.🏎⚡ 2023.12.05.',
 				'thumbnail' : ['img/portfolio/small/No25.webp'],
 				'large' : ['img/portfolio/large/No25.webp'],
