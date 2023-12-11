@@ -8,6 +8,28 @@ $("#elastic_grid_demo").elastic_grid({
 	'items' :
 		[
 			{
+				'title' : 'Loctite X Teroson Sponsoration',
+				'description'   : 'Whether drilling, sawing, threading, LOCTITE LB 8031 increases the life of our machining tools and provides a smoother machined surface whether it\'s steel, hardened steel or non-ferrous metals. Thanks to the Loctite team for their support!🏎⚡ 2023.12.08.',
+				'thumbnail' : ['../img/portfolio/small/No26.webp'],
+				'large' : ['../img/portfolio/large/No26.webp'],
+				'button_list'   :
+					[
+						{ 'title':'LOCTITE', 'url' : 'https://www.henkel-adhesives.com/hu/hu/rólunk/márkáink/loctite.html' },
+					],
+				'tags'  : ['Sponsored','All']
+			},
+			{
+				'title' : 'Loctite X Teroson Sponsoration',
+				'description'   : 'As our team is building an electric race car, we have come to rely on LOCTITE SF 7039 Contact Cleaner to provide a reliable and effective solution for cleaning electrical contacts, displacing moisture and other contaminants to help keep our cars running and performing at their best. We would like to thank the Loctite  team for helping us with this product.🏎⚡ 2023.12.05.',
+				'thumbnail' : ['../img/portfolio/small/No25.webp'],
+				'large' : ['../img/portfolio/large/No25.webp'],
+				'button_list'   :
+					[
+						{ 'title':'LOCTITE', 'url' : 'https://www.henkel-adhesives.com/hu/hu/rólunk/márkáink/loctite.html' },
+					],
+				'tags'  : ['Sponsored','All']
+			},
+			{
 				'title' : 'TE Connectivity Sponsoration',
 				'description'   : 'We would like to thank TE Connectivity for providing the high voltage connectors and other electronic components necessary for the construction of our race car.🦾 2023.11.13.',
 				'thumbnail' : ['../img/portfolio/small/No24.webp'],
