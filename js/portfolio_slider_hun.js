@@ -8,6 +8,17 @@ $("#elastic_grid_demo").elastic_grid({
 	'items' : 
 		[
 			{
+				'title' : 'LOCTITE Szponzoráció',
+				'description'   : 'Mivel csapatunk egy elektromos versenyautó építésével foglalkozik, nagy hasznát vesszük a LOCTITE SF 7039 kontakt tisztítónak, mely egy megbízható és hatékony megoldást biztosít az elektromos érintkezők tisztítására, kiszorítja a nedvességet és egyéb szennyeződéseket, ezzel segítve autónk optimális működését és teljesítményét. Köszönjük a Loctite  csapatának, hogy ezzel a termékkel is segíti munkánkat.🏎⚡ 2023.12.05.',
+				'thumbnail' : ['img/portfolio/small/No25.webp'],
+				'large' : ['img/portfolio/large/No25.webp'],
+				'button_list'   :
+					[
+						{ 'title':'LOCTITE', 'url' : 'https://www.henkel-adhesives.com/hu/hu/rólunk/márkáink/loctite.html' },
+					],
+				'tags'  : ['Szponzoráció','Mind']
+			},
+			{
 				'title' : 'TE Connectivity Szponzoráció',
 				'description'   : 'Köszönjük a TE Connectivity-nek a versenyautónk megépítéséhez szükséges nagy feszültségű csatlakozók és egyéb elektronikai alkatrészek biztosítását.🦾 2023.11.13.',
 				'thumbnail' : ['img/portfolio/small/No24.webp'],
