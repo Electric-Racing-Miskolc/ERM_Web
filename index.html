@@ -1064,6 +1064,8 @@
                 </a>
               </h4>
 
+              <div class="visible-xs" id="xs-check"></div>
+
               <div id="collapseSDiamond" class="panel-collapse collapse in" style="margin-bottom: 3%">
                 <div class="panel-body">
 
@@ -1607,6 +1609,16 @@
       $('#preloader').delay(100).fadeOut('slow'); // will fade out the white DIV that covers the website.
       $('body').delay(100).css({ 'overflow': 'visible' });
     })
+  </script>
+
+  <script>
+    if( $("#xs-check").is(":visible") ){
+      $("#collapseSDiamond").removeClass("in");
+      $("#collapseSGold").removeClass("in");
+      $("#collapseSSilver").removeClass("in");
+      $("#collapseSBronze").removeClass("in");
+        $("#collapseSPartner").removeClass("in");
+    }
   </script>
 
   <script>
