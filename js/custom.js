@@ -165,5 +165,14 @@ jQuery(function($){
 	  $('.navbar-collapse').collapse('hide');
 	});
 
+
+	/* ----------------------------------------------------------- */
+	/*  16. CLOSE SPONSORS ON MOBILE
+	/* ----------------------------------------------------------- */ 
+
+	$(".Mark_Pre_Val").click(function(){ 
+		$('#4, #6, #12, #21').removeClass('onion').addClass('onionClick');
+	  });
+
 	
 });
