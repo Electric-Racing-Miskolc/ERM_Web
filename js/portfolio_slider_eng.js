@@ -8,6 +8,17 @@ $("#elastic_grid_demo").elastic_grid({
 	'items' :
 		[
 			{
+				'title' : 'Sensata Sponsoration',
+				'description'   : 'We would like to thank Sensata Technologies for their crash sensors, which ensure the safety of our team members, and their switches, which contribute to our car\'s electronic system. 🏎⚡ 2023.12.14.',
+				'thumbnail' : ['../img/portfolio/small/No27.webp'],
+				'large' : ['../img/portfolio/large/No27.webp'],
+				'button_list'   :
+					[
+						{ 'title':'Sensata', 'url' : 'https://www.sensata.com/' },
+					],
+				'tags'  : ['Sponsored','All']
+			},
+			{
 				'title' : 'Loctite X Teroson Sponsoration',
 				'description'   : 'Whether drilling, sawing, threading, LOCTITE LB 8031 increases the life of our machining tools and provides a smoother machined surface whether it\'s steel, hardened steel or non-ferrous metals. Thanks to the Loctite team for their support!🏎⚡ 2023.12.08.',
 				'thumbnail' : ['../img/portfolio/small/No26.webp'],

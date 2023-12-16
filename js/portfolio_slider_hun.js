@@ -7,7 +7,17 @@ $("#elastic_grid_demo").elastic_grid({
 	'expandingHeight': 500,
 	'items' : 
 		[
-			
+			{
+				'title' : 'Sensata Szponzoráció',
+				'description'   : 'Szeretnénk megköszönni a Sensata Technologies-nak ,hogy ütközés szenzorjaikkal biztosítják a csapattagok biztonságát, illetve, hogy reléikkel hozzájárulnak autónk elektronikai rendszeréhez. 🏎⚡ 2023.12.14.',
+				'thumbnail' : ['img/portfolio/small/No27.webp'],
+				'large' : ['img/portfolio/large/No27.webp'],
+				'button_list'   :
+					[
+						{ 'title':'Sensata', 'url' : 'https://www.sensata.com/' },
+					],
+				'tags'  : ['Szponzoráció','Mind']
+			},
 			{
 				'title' : 'Loctite X Teroson Szponzoráció',
 				'description'   : 'Legyen szó fúrásról, fűrészelésről, menetvágásról, a LOCTITE LB 8031 növeli megmunkáló szerszámaink élettartamát és simább megmunkált felületet biztosít akár acélról, edzett acélról vagy színesfémekről legyen szó. Köszönjük a Loctite csapatának a támogatást!🏎⚡ 2023.12.08.',
