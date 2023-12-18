@@ -8,6 +8,17 @@ $("#elastic_grid_demo").elastic_grid({
 	'items' : 
 		[
 			{
+				'title' : 'Isabellenhütte Heusler GmbH & Co. KG Szponzoráció',
+				'description'   : 'Az Isabellenhütte Heusler GmbH & Co. KG által biztosított árammérő szenzorok segítségével megmérhetjük az autónk motorja által felvett áramot, emellett több pontban is tudunk feszültséget mérni. Ezekkel az adatokkal továbbá ki tudjuk számolni az autó által felemésztett enerigát, illetve meg tudjuk mérni a visszatöltést és a töltés közbeni töltőáramot is. Köszönjük az Isabellenhütte-nek, hogy segítik munkánkat ezzel a termékkel!🏎⚡️ 2023.12.17.',
+				'thumbnail' : ['img/portfolio/small/No28.webp'],
+				'large' : ['img/portfolio/large/No28.webp'],
+				'button_list'   :
+					[
+						{ 'title':'Sensata', 'url' : 'https://www.isabellenhuette.de/' },
+					],
+				'tags'  : ['Szponzoráció','Mind']
+			},
+			{
 				'title' : 'Sensata Szponzoráció',
 				'description'   : 'Szeretnénk megköszönni a Sensata Technologies-nak ,hogy ütközés szenzorjaikkal biztosítják a csapattagok biztonságát, illetve, hogy reléikkel hozzájárulnak autónk elektronikai rendszeréhez. 🏎⚡ 2023.12.14.',
 				'thumbnail' : ['img/portfolio/small/No27.webp'],
