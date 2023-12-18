@@ -8,6 +8,17 @@ $("#elastic_grid_demo").elastic_grid({
 	'items' :
 		[
 			{
+				'title' : 'Isabellenhütte Heusler GmbH & Co. KG Sponsoration',
+				'description'   : 'Isabellenhütte\'s sensors can measure the current draw from our accumulator and also allows us multiple high voltage measurements. This data allows us to calculate energy consumption and monitor charging current. We would like to thank Isabellenhütte Heusler GmbH & Co. KG for helping us with this product!🏎⚡️ 2023.12.17.',
+				'thumbnail' : ['../img/portfolio/small/No28.webp'],
+				'large' : ['../img/portfolio/large/No28.webp'],
+				'button_list'   :
+					[
+						{ 'title':'Sensata', 'url' : 'https://www.isabellenhuette.de/' },
+					],
+				'tags'  : ['Sponsored','All']
+			},
+			{
 				'title' : 'Sensata Sponsoration',
 				'description'   : 'We would like to thank Sensata Technologies for their crash sensors, which ensure the safety of our team members, and their switches, which contribute to our car\'s electronic system. 🏎⚡ 2023.12.14.',
 				'thumbnail' : ['../img/portfolio/small/No27.webp'],
