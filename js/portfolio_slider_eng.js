@@ -8,13 +8,35 @@ $("#elastic_grid_demo").elastic_grid({
 	'items' :
 		[
 			{
+				'title' : 'Eurocircuits Hungary Sponsoration',
+				'description'   : 'Ensuring safe operating conditions for battery cells is a critical point in the development of our car. We would like to thank Eurocircuits Hungary for their master and slave printed circuits, which help us optimise the voltage between the cells to increase the life of our battery. 2023.12.21.',
+				'thumbnail' : ['../img/portfolio/small/No30.webp'],
+				'large' : ['../img/portfolio/large/No30.webp'],
+				'button_list'   :
+					[
+						{ 'title':'Eurocircuits Hungary', 'url' : 'https://www.eurocircuits.hu' },
+					],
+				'tags'  : ['Sponsored','All']
+			},
+			{
+				'title' : 'Loctite X Teroson Sponsoration',
+				'description'   : 'In our racing car, it is essential to prevent loosening of the fasteners exposed to vibration.  The LOCTITE 222 low-strength bolt tensioner and LOCTITE 243 medium-strength bolt tensioner provide an excellent solution. A particular advantage for us is that it bonds to all surfaces, even the various aluminium alloys we use, which are passive surfaces. It also allows disassembly of parts with a hand tool and thus the replacement of the various fastened units. We would like to thank the Loctite team for their support. 🏎⚡ 2023.12.19.',
+				'thumbnail' : ['../img/portfolio/small/No29.webp'],
+				'large' : ['../img/portfolio/large/No29.webp'],
+				'button_list'   :
+					[
+						{ 'title':'Loctite', 'url' : 'https://www.henkel-adhesives.com/hu/hu/rólunk/márkáink/loctite.html' },
+					],
+				'tags'  : ['Sponsored','All']
+			},
+			{
 				'title' : 'Isabellenhütte Heusler GmbH & Co. KG Sponsoration',
 				'description'   : 'Isabellenhütte\'s sensors can measure the current draw from our accumulator and also allows us multiple high voltage measurements. This data allows us to calculate energy consumption and monitor charging current. We would like to thank Isabellenhütte Heusler GmbH & Co. KG for helping us with this product!🏎⚡️ 2023.12.17.',
 				'thumbnail' : ['../img/portfolio/small/No28.webp'],
 				'large' : ['../img/portfolio/large/No28.webp'],
 				'button_list'   :
 					[
-						{ 'title':'Sensata', 'url' : 'https://www.isabellenhuette.de/' },
+						{ 'title':'Isabellenhütte Heusler GmbH & Co. KG', 'url' : 'https://www.isabellenhuette.de/' },
 					],
 				'tags'  : ['Sponsored','All']
 			},

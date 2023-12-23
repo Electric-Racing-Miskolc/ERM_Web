@@ -8,13 +8,35 @@ $("#elastic_grid_demo").elastic_grid({
 	'items' : 
 		[
 			{
+				'title' : 'Eurocircuits Hungary Szponzoráció',
+				'description'   : 'Az akkumulátor cellák biztonságos üzemi körülményeinek biztosítása kritikus pont autónk fejlesztésénél. Ezúton szeretnénk megköszönni az Eurocircuits Hungary-nek az általuk gyártott master és slave nyomtatott áramköröket, melyek segítik a cellák közötti feszültség optimalizálását, amivel az akkumulátorunk élettartamát növelhetjük.  2023.12.21.',
+				'thumbnail' : ['img/portfolio/small/No30.webp'],
+				'large' : ['img/portfolio/large/No30.webp'],
+				'button_list'   :
+					[
+						{ 'title':'Eurocircuits Hungary', 'url' : 'https://www.eurocircuits.hu' },
+					],
+				'tags'  : ['Szponzoráció','Mind']
+			},
+			{
+				'title' : 'Loctite X Teroson Szponzoráció',
+				'description'   : 'Versenyautónknál elengedhetetlen, hogy megelőzzük a vibrációnak kitett kötőelemek kilazulását. Erre nyújt kiváló megoldást a LOCTITE 222 kis szilárdságú csavarrögzítő és a LOCTITE 243 közepes erősségű csavarrögzítő. Kiemelt előny számunkra, hogy minden felületen megköt, még az általunk használt különböző alumínium ötvözeteken is, melyek passzív felületnek számítanak. Továbbá lehetővé teszi az alkatrészek kéziszerszámmal történő szétszerelését, és így a különböző rögzített egységek cseréjét. Köszönjük a Loctite csapatának a támogatást! 🏎⚡ 2023.12.19.',
+				'thumbnail' : ['img/portfolio/small/No29.webp'],
+				'large' : ['img/portfolio/large/No29.webp'],
+				'button_list'   :
+					[
+						{ 'title':'Loctite', 'url' : 'https://www.henkel-adhesives.com/hu/hu/rólunk/márkáink/loctite.html' },
+					],
+				'tags'  : ['Szponzoráció','Mind']
+			},
+			{
 				'title' : 'Isabellenhütte Heusler GmbH & Co. KG Szponzoráció',
 				'description'   : 'Az Isabellenhütte Heusler GmbH & Co. KG által biztosított árammérő szenzorok segítségével megmérhetjük az autónk motorja által felvett áramot, emellett több pontban is tudunk feszültséget mérni. Ezekkel az adatokkal továbbá ki tudjuk számolni az autó által felemésztett enerigát, illetve meg tudjuk mérni a visszatöltést és a töltés közbeni töltőáramot is. Köszönjük az Isabellenhütte-nek, hogy segítik munkánkat ezzel a termékkel!🏎⚡️ 2023.12.17.',
 				'thumbnail' : ['img/portfolio/small/No28.webp'],
 				'large' : ['img/portfolio/large/No28.webp'],
 				'button_list'   :
 					[
-						{ 'title':'Sensata', 'url' : 'https://www.isabellenhuette.de/' },
+						{ 'title':'Isabellenhütte Heusler GmbH & Co. KG', 'url' : 'https://www.isabellenhuette.de/' },
 					],
 				'tags'  : ['Szponzoráció','Mind']
 			},
