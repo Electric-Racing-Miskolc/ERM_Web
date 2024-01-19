@@ -8,6 +8,17 @@ $("#elastic_grid_demo").elastic_grid({
 	'items' : 
 		[
 			{
+				'title' : '3Dconnexion Szponzoráció',
+				'description'   : 'A 3Dconnexion 3D tervezéshez készít ergonomikus, 3D navigációra is alkalmas bemeneti eszközöket, mint például a Keyboard Pro-t, a CadMouse-t vagy a SpaceMouse-t, ami a 3D térben képes segíteni a tervezést. Ezúton köszönjük nekik, hogy termékeikkel hozzájárulnak a csapat további munkájához. 🏎⚡️  2024.01.17.',
+				'thumbnail' : ['img/portfolio/small/No31.webp'],
+				'large' : ['img/portfolio/large/No31.webp'],
+				'button_list'   :
+					[
+						{ 'title':'3Dconnexion', 'url' : 'https://3dconnexion.com/' },
+					],
+				'tags'  : ['Szponzoráció','Mind']
+			},
+			{
 				'title' : 'Eurocircuits Hungary Szponzoráció',
 				'description'   : 'Az akkumulátor cellák biztonságos üzemi körülményeinek biztosítása kritikus pont autónk fejlesztésénél. Ezúton szeretnénk megköszönni az Eurocircuits Hungary-nek az általuk gyártott master és slave nyomtatott áramköröket, melyek segítik a cellák közötti feszültség optimalizálását, amivel az akkumulátorunk élettartamát növelhetjük.  2023.12.21.',
 				'thumbnail' : ['img/portfolio/small/No30.webp'],
