@@ -8,6 +8,17 @@ $("#elastic_grid_demo").elastic_grid({
 	'items' :
 		[
 			{
+				'title' : '3Dconnexion Sponsoration',
+				'description'   : '3Dconnexion creates ergonomic 3D design input devices for 3D navigation, such as Keyboard Pro, CadMouse or SpaceMouse, which can help you design in 3D space. We would like to thank them for contributing to the team\'s work with their products. 🏎⚡️  2024.01.17.',
+				'thumbnail' : ['../img/portfolio/small/No31.webp'],
+				'large' : ['../img/portfolio/large/No31.webp'],
+				'button_list'   :
+					[
+						{ 'title':'3Dconnexion', 'url' : 'https://3dconnexion.com/' },
+					],
+				'tags'  : ['Sponsored','All']
+			},
+			{
 				'title' : 'Eurocircuits Hungary Sponsoration',
 				'description'   : 'Ensuring safe operating conditions for battery cells is a critical point in the development of our car. We would like to thank Eurocircuits Hungary for their master and slave printed circuits, which help us optimise the voltage between the cells to increase the life of our battery. 2023.12.21.',
 				'thumbnail' : ['../img/portfolio/small/No30.webp'],
