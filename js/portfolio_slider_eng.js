@@ -8,6 +8,17 @@ $("#elastic_grid_demo").elastic_grid({
 	'items' :
 		[
 			{
+				'title' : 'Böllhoff Sponsoration',
+				'description'   : 'When it comes to fasteners, Böllhoff is our partner. Their wide range of fastening technologies and special fasteners make the design process easier. Using their thread locking products is critical to the safe operation of our race car. We would like to thank Böllhoff for their support!🏎⚡️  2024.02.05.',
+				'thumbnail' : ['../img/portfolio/small/No32.webp'],
+				'large' : ['../img/portfolio/large/No32.webp'],
+				'button_list'   :
+					[
+						{ 'title':'Böllhoff', 'url' : 'https://www.boellhoff.com/hu-hu/' },
+					],
+				'tags'  : ['Sponsored','All']
+			},
+			{
 				'title' : '3Dconnexion Sponsoration',
 				'description'   : '3Dconnexion creates ergonomic 3D design input devices for 3D navigation, such as Keyboard Pro, CadMouse or SpaceMouse, which can help you design in 3D space. We would like to thank them for contributing to the team\'s work with their products. 🏎⚡️  2024.01.17.',
 				'thumbnail' : ['../img/portfolio/small/No31.webp'],
