@@ -8,6 +8,17 @@ $("#elastic_grid_demo").elastic_grid({
 	'items' : 
 		[
 			{
+				'title' : 'Böllhoff Szponzoráció',
+				'description'   : 'Ha kötőelemekről van szó, akkor ebben a mi partnerünk a Böllhoff. A széles kötéstechnológiai kínálatuk, és különleges rögzítőelemeik megkönnyítik a tervezési folyamatot. A menetbiztosító termékeik alkalmazása kritikus fontosságú versenyautónk biztonságos működése érdekében. Köszönjük a Böllhoff támogatását!🏎⚡️  2024.02.05.',
+				'thumbnail' : ['img/portfolio/small/No32.webp'],
+				'large' : ['img/portfolio/large/No32.webp'],
+				'button_list'   :
+					[
+						{ 'title':'Böllhoff', 'url' : 'https://www.boellhoff.com/hu-hu/' },
+					],
+				'tags'  : ['Szponzoráció','Mind']
+			},
+			{
 				'title' : '3Dconnexion Szponzoráció',
 				'description'   : 'A 3Dconnexion 3D tervezéshez készít ergonomikus, 3D navigációra is alkalmas bemeneti eszközöket, mint például a Keyboard Pro-t, a CadMouse-t vagy a SpaceMouse-t, ami a 3D térben képes segíteni a tervezést. Ezúton köszönjük nekik, hogy termékeikkel hozzájárulnak a csapat további munkájához. 🏎⚡️  2024.01.17.',
 				'thumbnail' : ['img/portfolio/small/No31.webp'],
