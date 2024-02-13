@@ -8,6 +8,32 @@ $("#elastic_grid_demo").elastic_grid({
 	'items' : 
 		[
 			{
+				'title' : 'Versenynaptár 2024',
+				'description'   : 'Elkészült csapatunk 2024-es versenynaptára tele izgalmasnál izgalmasabb helyszínekkel!🏎️ Csapatunk három versenyen fog részt venni, melyek nem mások, mint… Formula Student Easter, Formula Student Czech Republic, Formula Student Alpe Adria. Ha kíváncsiak vagytok a versenyekkel, csapatunkkal , valamint autónkkal kapcsolatos további tartalmakra, kövessétek csapatunk Tiktok-oldalát is! 😎( @_ermiskolc_ ) 2024.02.13.',
+				'thumbnail' : ['img/portfolio/small/No34.webp'],
+				'large' : ['img/portfolio/large/No34.webp'],
+				'button_list'   :
+					[
+						{ 'title':'FS Easter', 'url' : 'https://www.facebook.com/formulastudenteaster' },
+						{ 'title':'FS Czech Republic', 'url' : 'https://www.facebook.com/FormulaStudentCzechRepublic' },
+						{ 'title':'FS Alpe Adria', 'url' : 'https://www.facebook.com/formulastudentalpeadria' },
+						{ 'title':'Facebook post', 'url' : 'https://www.facebook.com/photo?fbid=358366690409893&set=a.268423179404245' },
+						{ 'title':'Instagram post', 'url' : 'https://www.instagram.com/reel/C3S24DcsO6n/?utm_source=ig_web_copy_link' },
+					],
+				'tags'  : ['Csapat','Verseny','Mind']
+			},
+			{
+				'title' : 'HTEST Szponzoráció',
+				'description'   : 'Köszönjük szépen a vizsgáló és mérőműszerek vezető disztribútora, a H TEST HUNGARY Kft. támogatását, akik segítségével kedvezményes áron jutottunk hozzá labortápegységünkhöz. A H TEST-től érkezett nagyfeszültségű tápegység segítségével tudjuk feltölteni akkumulátorunkat, és egyes áramköreink tesztelésében is fontos szerepet játszik.🏎⚡  2024.02.12.',
+				'thumbnail' : ['img/portfolio/small/No33.webp'],
+				'large' : ['img/portfolio/large/No33.webp'],
+				'button_list'   :
+					[
+						{ 'title':'HTEST', 'url' : 'https://www.htest.hu/' },
+					],
+				'tags'  : ['Szponzoráció','Mind']
+			},
+			{
 				'title' : 'Böllhoff Szponzoráció',
 				'description'   : 'Ha kötőelemekről van szó, akkor ebben a mi partnerünk a Böllhoff. A széles kötéstechnológiai kínálatuk, és különleges rögzítőelemeik megkönnyítik a tervezési folyamatot. A menetbiztosító termékeik alkalmazása kritikus fontosságú versenyautónk biztonságos működése érdekében. Köszönjük a Böllhoff támogatását!🏎⚡️  2024.02.05.',
 				'thumbnail' : ['img/portfolio/small/No32.webp'],
