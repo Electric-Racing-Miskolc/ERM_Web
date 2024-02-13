@@ -8,6 +8,32 @@ $("#elastic_grid_demo").elastic_grid({
 	'items' :
 		[
 			{
+				'title' : 'Race Calendar 2024',
+				'description'   : 'Our team has completed our 2024 race calendar filled with exciting locations! 🏎️ Our team will participate in three races, namely... Formula Student Easter, Formula Student Czech Republic, Formula Student Alpe Adria. If you are curious about the races, our team, and further content related to our car, make sure to follow our team\'s TikTok page as well! 😎 ( @ermiskolc ) 2024.02.13.',
+				'thumbnail' : ['../img/portfolio/small/No34.webp'],
+				'large' : ['../img/portfolio/large/No34.webp'],
+				'button_list'   :
+					[
+						{ 'title':'FS Easter', 'url' : 'https://www.facebook.com/formulastudenteaster' },
+						{ 'title':'FS Czech Republic', 'url' : 'https://www.facebook.com/FormulaStudentCzechRepublic' },
+						{ 'title':'FS Alpe Adria', 'url' : 'https://www.facebook.com/formulastudentalpeadria' },
+						{ 'title':'Facebook post', 'url' : 'https://www.facebook.com/photo?fbid=358366690409893&set=a.268423179404245' },
+						{ 'title':'Instagram post', 'url' : 'https://www.instagram.com/reel/C3S24DcsO6n/?utm_source=ig_web_copy_link' },
+					],
+				'tags'  : ['Team','Competition','All']
+			},
+			{
+				'title' : 'HTEST Sponsoration',
+				'description'   : 'Many thanks to H TEST HUNGARY Kft., a leading distributor of test and measurement instruments, for their support in providing us with a discounted price for our laboratory power supply. The high voltage power supply from H TEST allows us to charge our battery and plays an important role in testing some of our circuits.🏎⚡  2024.02.12.',
+				'thumbnail' : ['../img/portfolio/small/No33.webp'],
+				'large' : ['../img/portfolio/large/No33.webp'],
+				'button_list'   :
+					[
+						{ 'title':'HTEST', 'url' : 'https://www.htest.hu/' },
+					],
+				'tags'  : ['Sponsored','All']
+			},
+			{
 				'title' : 'Böllhoff Sponsoration',
 				'description'   : 'When it comes to fasteners, Böllhoff is our partner. Their wide range of fastening technologies and special fasteners make the design process easier. Using their thread locking products is critical to the safe operation of our race car. We would like to thank Böllhoff for their support!🏎⚡️  2024.02.05.',
 				'thumbnail' : ['../img/portfolio/small/No32.webp'],
